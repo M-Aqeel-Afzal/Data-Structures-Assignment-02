@@ -1,0 +1,3036 @@
+Sr. No,Semester,Course Code,Course Title,Credit Hours,Grade,Grade Point,SGPA,CGPA,Warning
+108,Fall,CS118,Programming Fundamentals,3,D,1,1.86,1.86,2
+108,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,1.86,1.86,2
+108,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,1.86,1.86,2
+108,Fall,EE182,Basic Electronics,3,D+,1.33,1.86,1.86,2
+108,Fall,SL101,English Language Lab,1,B+,3.33,1.86,1.86,2
+108,Fall,SS101,English Language,3,B,3,1.86,1.86,2
+108,Fall,MT104,Linear Algebra,3,D+,1.33,1.86,1.86,2
+108,Spring,SS111,Islamic and Religious Studies,3,C,2,1.27,1.57,2
+108,Spring,CL217,Computer Programming Lab,1,F,0,1.27,1.57,2
+108,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,1.27,1.57,2
+108,Spring,EE227,Digital Logic Design,3,C,2,1.27,1.57,2
+108,Spring,MT224,Differential Equations (Cal II),3,D,1,1.27,1.57,2
+108,Spring,SS122,English Composition,3,D+,1.33,1.27,1.57,2
+108,Spring,CS217,Computer Programming,3,F,0,1.27,1.57,2
+108,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+108,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+108,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+108,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+108,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+108,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+108,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+108,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+109,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,1.84,1.84,0
+109,Fall,EE182,Basic Electronics,3,D,1,1.84,1.84,0
+109,Fall,MT104,Linear Algebra,3,C-,1.67,1.84,1.84,0
+109,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1.84,1.84,0
+109,Fall,SL101,English Language Lab,1,B,3,1.84,1.84,0
+109,Fall,CS118,Programming Fundamentals,3,D,1,1.84,1.84,0
+109,Fall,SS101,English Language,3,B+,3.33,1.84,1.84,0
+109,Fall,CS201,Data Structures,3,F,0,1.27,1.77,0
+109,Spring,SS122,English Composition,3,D+,1.33,1.95,2.01,0
+109,Spring,CL118,Programming Fundamentals - Lab,1,B-,2.67,1.95,2.01,0
+109,Spring,SS111,Islamic and Religious Studies,3,D+,1.33,1.95,2.01,0
+109,Spring,EE227,Digital Logic Design,3,B,3,1.95,2.01,0
+109,Spring,CS118,Programming Fundamentals,3,C,2,1.95,2.01,0
+109,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,1.95,2.01,0
+109,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+109,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+109,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+109,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+109,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+109,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+109,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+109,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+109,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+109,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+110,Fall,SL101,English Language Lab,1,A-,3.67,2.47,2.47,0
+110,Fall,SS101,English Language,3,A,4,2.47,2.47,0
+110,Fall,EE182,Basic Electronics,3,B-,2.67,2.47,2.47,0
+110,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.47,2.47,0
+110,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.47,2.47,0
+110,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.47,2.47,0
+110,Fall,MT104,Linear Algebra,3,C-,1.67,2.47,2.47,0
+110,Spring,SS122,English Composition,3,B+,3.33,1.71,2.09,0
+110,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.71,2.09,0
+110,Spring,CS217,Computer Programming,3,F,0,1.71,2.09,0
+110,Spring,CL217,Computer Programming Lab,1,F,0,1.71,2.09,0
+110,Spring,SS111,Islamic and Religious Studies,3,B+,3.33,1.71,2.09,0
+110,Spring,EL227,Digital Logic Design - Lab,1,D,1,1.71,2.09,0
+110,Spring,EE227,Digital Logic Design,3,D,1,1.71,2.09,0
+110,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+110,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+110,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+110,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+110,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+110,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+110,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+110,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+111,Fall,MT104,Linear Algebra,3,C-,1.67,1.9,1.9,0
+111,Fall,SS101,English Language,3,B+,3.33,1.9,1.9,0
+111,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.9,1.9,0
+111,Fall,CS118,Programming Fundamentals,3,F,0,1.9,1.9,0
+111,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.9,1.9,0
+111,Fall,EE182,Basic Electronics,3,B,3,1.9,1.9,0
+111,Fall,SL101,English Language Lab,1,B+,3.33,1.9,1.9,0
+111,Fall,CS201,Data Structures,3,F,0,2.06,2.37,0
+111,Spring,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.5,2.6,0
+111,Spring,SS122,English Composition,3,C-,1.67,2.5,2.6,0
+111,Spring,EE227,Digital Logic Design,3,A,4,2.5,2.6,0
+111,Spring,CL118,Programming Fundamentals - Lab,1,D,1,2.5,2.6,0
+111,Spring,EL227,Digital Logic Design - Lab,1,B,3,2.5,2.6,0
+111,Spring,CS118,Programming Fundamentals,3,D+,1.33,2.5,2.6,0
+111,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+111,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+111,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+111,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+111,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+111,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+111,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+111,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+111,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+111,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+111,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+112,Fall,SL101,English Language Lab,1,B+,3.33,1.55,1.55,2
+112,Fall,MT104,Linear Algebra,3,D,1,1.55,1.55,2
+112,Fall,MT119,Calculus and Analytical Geometry,3,D,1,1.55,1.55,2
+112,Fall,EE182,Basic Electronics,3,C,2,1.55,1.55,2
+112,Fall,CS118,Programming Fundamentals,3,F,0,1.55,1.55,2
+112,Fall,SS101,English Language,3,A-,3.67,1.55,1.55,2
+112,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.55,1.55,2
+112,Spring,EE227,Digital Logic Design,3,B+,3.33,2,2.14,2
+112,Spring,EL227,Digital Logic Design - Lab,1,D,1,2,2.14,2
+112,Spring,SS122,English Composition,3,B-,2.67,2,2.14,2
+112,Spring,CL118,Programming Fundamentals - Lab,1,F,0,2,2.14,2
+112,Spring,MT119,Calculus and Analytical Geometry,3,C-,1.67,2,2.14,2
+112,Spring,CS118,Programming Fundamentals,3,D+,1.33,2,2.14,2
+112,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+112,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+112,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+112,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+112,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+112,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+112,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+112,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+112,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+112,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+112,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+112,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+113,Fall,CS118,Programming Fundamentals,3,LL,0,0,0,1
+113,Fall,MT104,Linear Algebra,3,LL,0,0,0,1
+113,Fall,MT119,Calculus and Analytical Geometry,3,LL,0,0,0,1
+113,Fall,CL118,Programming Fundamentals - Lab,1,LL,0,0,0,1
+113,Fall,EE182,Basic Electronics,3,LL,0,0,0,1
+113,Fall,SS101,English Language,3,LL,0,0,0,1
+113,Fall,SL101,English Language Lab,1,LL,0,0,0,1
+113,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+113,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+113,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+113,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+113,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+113,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+113,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+113,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+113,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+113,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+113,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+113,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+113,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+113,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+113,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+114,Fall,SS101,English Language,3,C+,2.33,2.06,2.06,0
+114,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.06,2.06,0
+114,Fall,CS118,Programming Fundamentals,3,D+,1.33,2.06,2.06,0
+114,Fall,CL118,Programming Fundamentals - Lab,1,C,2,2.06,2.06,0
+114,Fall,EE182,Basic Electronics,3,C+,2.33,2.06,2.06,0
+114,Fall,MT104,Linear Algebra,3,C+,2.33,2.06,2.06,0
+114,Fall,SL101,English Language Lab,1,FA,0,2.06,2.06,0
+114,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,0.64,1.42,0
+114,Spring,EL227,Digital Logic Design - Lab,1,F,0,0.64,1.42,0
+114,Spring,EE227,Digital Logic Design,3,D+,1.33,0.64,1.42,0
+114,Spring,SS113,Pakistan Studies,3,FA,0,0.64,1.42,0
+114,Spring,CL217,Computer Programming Lab,1,F,0,0.64,1.42,0
+114,Spring,CS217,Computer Programming,3,F,0,0.64,1.42,0
+114,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+114,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+114,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+114,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+114,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+114,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+114,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+114,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+114,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+115,Fall,MT119,Calculus and Analytical Geometry,3,D,1,2.18,2.18,2
+115,Fall,SL101,English Language Lab,1,B,3,2.18,2.18,2
+115,Fall,MT104,Linear Algebra,3,D+,1.33,2.18,2.18,2
+115,Fall,SS101,English Language,3,B+,3.33,2.18,2.18,2
+115,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.18,2.18,2
+115,Fall,EE182,Basic Electronics,3,C-,1.67,2.18,2.18,2
+115,Fall,CS118,Programming Fundamentals,3,B-,2.67,2.18,2.18,2
+115,Fall,CS201,Data Structures,3,F,0,0.62,1.54,2
+115,Spring,CL217,Computer Programming Lab,1,F,0,0.95,1.62,2
+115,Spring,CS217,Computer Programming,3,F,0,0.95,1.62,2
+115,Spring,EE227,Digital Logic Design,3,B,3,0.95,1.62,2
+115,Spring,EL227,Digital Logic Design - Lab,1,D+,1.33,0.95,1.62,2
+115,Spring,SS122,English Composition,3,D,1,0.95,1.62,2
+115,Spring,SS113,Pakistan Studies,3,F,0,0.95,1.62,2
+115,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+115,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+115,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+115,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+115,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+115,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+115,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+115,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+116,Fall,SL101,English Language Lab,1,B+,3.33,2.67,2.67,0
+116,Fall,SS101,English Language,3,A,4,2.67,2.67,0
+116,Fall,CS118,Programming Fundamentals,3,C,2,2.67,2.67,0
+116,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.67,2.67,0
+116,Fall,MT104,Linear Algebra,3,B-,2.67,2.67,2.67,0
+116,Fall,EE182,Basic Electronics,3,C+,2.33,2.67,2.67,0
+116,Fall,CL118,Programming Fundamentals - Lab,1,B,3,2.67,2.67,0
+116,Fall,CS201,Data Structures,3,B,3,2.61,2.62,0
+116,Spring,EE227,Digital Logic Design,3,B+,3.33,2.59,2.63,0
+116,Spring,SS113,Pakistan Studies,3,C+,2.33,2.59,2.63,0
+116,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.59,2.63,0
+116,Spring,CS217,Computer Programming,3,C,2,2.59,2.63,0
+116,Spring,SS122,English Composition,3,A-,3.67,2.59,2.63,0
+116,Spring,MT224,Differential Equations (Cal II),3,C,2,2.59,2.63,0
+116,Spring,CL217,Computer Programming Lab,1,D+,1.33,2.59,2.63,0
+116,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+116,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+116,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+116,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+116,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+116,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+116,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+117,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.33,2.33,0
+117,Fall,EE182,Basic Electronics,3,B-,2.67,2.33,2.33,0
+117,Fall,SS101,English Language,3,C,2,2.33,2.33,0
+117,Fall,SL101,English Language Lab,1,A-,3.67,2.33,2.33,0
+117,Fall,MT104,Linear Algebra,3,C-,1.67,2.33,2.33,0
+117,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.33,2.33,0
+117,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.33,2.33,0
+117,Fall,CS201,Data Structures,3,F,0,2.06,2.16,0
+117,Spring,CS217,Computer Programming,3,C-,1.67,2.26,2.3,0
+117,Spring,EE227,Digital Logic Design,3,B+,3.33,2.26,2.3,0
+117,Spring,MT224,Differential Equations (Cal II),3,D,1,2.26,2.3,0
+117,Spring,SS113,Pakistan Studies,3,A-,3.67,2.26,2.3,0
+117,Spring,CL217,Computer Programming Lab,1,C+,2.33,2.26,2.3,0
+117,Spring,SS122,English Composition,3,C-,1.67,2.26,2.3,0
+117,Spring,EL227,Digital Logic Design - Lab,1,C,2,2.26,2.3,0
+117,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+117,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+117,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+117,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+117,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+117,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+117,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+118,Fall,SL101,English Language Lab,1,A-,3.67,3.86,3.86,0
+118,Fall,MT104,Linear Algebra,3,A-,3.67,3.86,3.86,0
+118,Fall,CS118,Programming Fundamentals,3,A+,4,3.86,3.86,0
+118,Fall,SS101,English Language,3,A,4,3.86,3.86,0
+118,Fall,EE182,Basic Electronics,3,A,4,3.86,3.86,0
+118,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.86,3.86,0
+118,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,3.86,3.86,0
+118,Fall,CS201,Data Structures,3,A,4,3.69,3.81,0
+118,Spring,EE227,Digital Logic Design,3,A+,4,3.88,3.87,0
+118,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,3.88,3.87,0
+118,Spring,SS111,Islamic and Religious Studies,3,A-,3.67,3.88,3.87,0
+118,Spring,CS217,Computer Programming,3,A,4,3.88,3.87,0
+118,Spring,CL217,Computer Programming Lab,1,A+,4,3.88,3.87,0
+118,Spring,EL227,Digital Logic Design - Lab,1,A+,4,3.88,3.87,0
+118,Spring,SS122,English Composition,3,A,4,3.88,3.87,0
+118,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+118,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+118,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+118,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+118,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+118,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+118,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+119,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,2.41,2.41,0
+119,Fall,SL101,English Language Lab,1,B+,3.33,2.41,2.41,0
+119,Fall,EE182,Basic Electronics,3,C+,2.33,2.41,2.41,0
+119,Fall,CS118,Programming Fundamentals,3,B,3,2.41,2.41,0
+119,Fall,MT104,Linear Algebra,3,D+,1.33,2.41,2.41,0
+119,Fall,CL118,Programming Fundamentals - Lab,1,B-,2.67,2.41,2.41,0
+119,Fall,SS101,English Language,3,A-,3.67,2.41,2.41,0
+119,Fall,CS201,Data Structures,3,B,3,2.1,2.49,0
+119,Spring,CL217,Computer Programming Lab,1,F,0,1.59,2,0
+119,Spring,MT224,Differential Equations (Cal II),3,F,0,1.59,2,0
+119,Spring,SS111,Islamic and Religious Studies,3,D+,1.33,1.59,2,0
+119,Spring,EL227,Digital Logic Design - Lab,1,D,1,1.59,2,0
+119,Spring,CS217,Computer Programming,3,F,0,1.59,2,0
+119,Spring,EE227,Digital Logic Design,3,B+,3.33,1.59,2,0
+119,Spring,SS122,English Composition,3,A,4,1.59,2,0
+119,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+119,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+119,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+119,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+119,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+119,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+119,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+120,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.92,2.92,0
+120,Fall,SS101,English Language,3,B,3,2.92,2.92,0
+120,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,2.92,2.92,0
+120,Fall,SL101,English Language Lab,1,A-,3.67,2.92,2.92,0
+120,Fall,CS118,Programming Fundamentals,3,B-,2.67,2.92,2.92,0
+120,Fall,MT104,Linear Algebra,3,B,3,2.92,2.92,0
+120,Fall,EE182,Basic Electronics,3,C+,2.33,2.92,2.92,0
+120,Fall,CS201,Data Structures,3,B+,3.33,2.56,2.68,0
+120,Spring,CL217,Computer Programming Lab,1,A,4,2.55,2.73,0
+120,Spring,EE227,Digital Logic Design,3,C+,2.33,2.55,2.73,0
+120,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.55,2.73,0
+120,Spring,CS217,Computer Programming,3,C+,2.33,2.55,2.73,0
+120,Spring,SS113,Pakistan Studies,3,C,2,2.55,2.73,0
+120,Spring,SS122,English Composition,3,B+,3.33,2.55,2.73,0
+120,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,2.55,2.73,0
+120,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+120,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+120,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+120,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+120,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+120,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+120,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+121,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.88,2.88,0
+121,Fall,SS101,English Language,3,C,2,2.88,2.88,0
+121,Fall,SL101,English Language Lab,1,B,3,2.88,2.88,0
+121,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.88,2.88,0
+121,Fall,EE182,Basic Electronics,3,B+,3.33,2.88,2.88,0
+121,Fall,MT104,Linear Algebra,3,B,3,2.88,2.88,0
+121,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.88,2.88,0
+121,Fall,CS201,Data Structures,3,B+,3.33,3.36,2.97,0
+121,Spring,EL227,Digital Logic Design - Lab,1,C,2,2.35,2.62,0
+121,Spring,MT224,Differential Equations (Cal II),3,A,4,2.35,2.62,0
+121,Spring,SS122,English Composition,3,D,1,2.35,2.62,0
+121,Spring,CL217,Computer Programming Lab,1,B,3,2.35,2.62,0
+121,Spring,CS217,Computer Programming,3,C+,2.33,2.35,2.62,0
+121,Spring,SS113,Pakistan Studies,3,D,1,2.35,2.62,0
+121,Spring,EE227,Digital Logic Design,3,B+,3.33,2.35,2.62,0
+121,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+121,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+121,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+121,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+121,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+121,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+121,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+122,Fall,SS101,English Language,3,C,2,1.55,1.55,3
+122,Fall,CS118,Programming Fundamentals,3,F,0,1.55,1.55,3
+122,Fall,MT104,Linear Algebra,3,C-,1.67,1.55,1.55,3
+122,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.55,1.55,3
+122,Fall,MT119,Calculus and Analytical Geometry,3,B,3,1.55,1.55,3
+122,Fall,EE182,Basic Electronics,3,C-,1.67,1.55,1.55,3
+122,Fall,SL101,English Language Lab,1,D+,1.33,1.55,1.55,3
+122,Spring,MT224,Differential Equations (Cal II),3,F,0,1.29,1.61,3
+122,Spring,CL118,Programming Fundamentals - Lab,1,D,1,1.29,1.61,3
+122,Spring,CS118,Programming Fundamentals,3,D,1,1.29,1.61,3
+122,Spring,SS122,English Composition,3,B-,2.67,1.29,1.61,3
+122,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,1.29,1.61,3
+122,Spring,EE227,Digital Logic Design,3,D,1,1.29,1.61,3
+122,Spring,EL227,Digital Logic Design - Lab,1,F,0,1.29,1.61,3
+122,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+122,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+122,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+122,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+122,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+122,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+122,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+122,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+122,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+122,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+123,Fall,EE182,Basic Electronics,3,B,3,2.39,2.39,0
+123,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,2.39,2.39,0
+123,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.39,2.39,0
+123,Fall,MT104,Linear Algebra,3,B,3,2.39,2.39,0
+123,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.39,2.39,0
+123,Fall,SL101,English Language Lab,1,B+,3.33,2.39,2.39,0
+123,Fall,SS101,English Language,3,B-,2.67,2.39,2.39,0
+123,Fall,CS201,Data Structures,3,F,0,0.98,2.02,0
+123,Spring,CL217,Computer Programming Lab,1,F,0,1.84,2.12,0
+123,Spring,SS111,Islamic and Religious Studies,3,B+,3.33,1.84,2.12,0
+123,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,1.84,2.12,0
+123,Spring,EE227,Digital Logic Design,3,B-,2.67,1.84,2.12,0
+123,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,1.84,2.12,0
+123,Spring,SS122,English Composition,3,D,1,1.84,2.12,0
+123,Spring,CS217,Computer Programming,3,FA,0,1.84,2.12,0
+123,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+123,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+123,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+123,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+123,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+123,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+123,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+124,Fall,CS118,Programming Fundamentals,3,A,4,3.61,3.61,0
+124,Fall,SS101,English Language,3,B-,2.67,3.61,3.61,0
+124,Fall,CL118,Programming Fundamentals - Lab,1,B,3,3.61,3.61,0
+124,Fall,SL101,English Language Lab,1,B+,3.33,3.61,3.61,0
+124,Fall,MT104,Linear Algebra,3,A,4,3.61,3.61,0
+124,Fall,EE182,Basic Electronics,3,A,4,3.61,3.61,0
+124,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.61,3.61,0
+124,Fall,CS201,Data Structures,3,B,3,3.12,3.4,0
+124,Spring,CS217,Computer Programming,3,A-,3.67,3.45,3.53,0
+124,Spring,SS113,Pakistan Studies,3,B,3,3.45,3.53,0
+124,Spring,SS122,English Composition,3,B-,2.67,3.45,3.53,0
+124,Spring,MT224,Differential Equations (Cal II),3,A,4,3.45,3.53,0
+124,Spring,CL217,Computer Programming Lab,1,A-,3.67,3.45,3.53,0
+124,Spring,EL227,Digital Logic Design - Lab,1,B,3,3.45,3.53,0
+124,Spring,EE227,Digital Logic Design,3,A,4,3.45,3.53,0
+124,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+124,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+124,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+124,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+124,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+124,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+124,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+125,Fall,SL101,English Language Lab,1,A-,3.67,2.28,2.28,0
+125,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.28,2.28,0
+125,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,2.28,2.28,0
+125,Fall,EE182,Basic Electronics,3,D+,1.33,2.28,2.28,0
+125,Fall,MT104,Linear Algebra,3,C-,1.67,2.28,2.28,0
+125,Fall,CL118,Programming Fundamentals - Lab,1,B,3,2.28,2.28,0
+125,Fall,SS101,English Language,3,A-,3.67,2.28,2.28,0
+125,Spring,MT224,Differential Equations (Cal II),3,F,0,1.41,1.84,0
+125,Spring,EE227,Digital Logic Design,3,C-,1.67,1.41,1.84,0
+125,Spring,CS217,Computer Programming,3,F,0,1.41,1.84,0
+125,Spring,EL227,Digital Logic Design - Lab,1,F,0,1.41,1.84,0
+125,Spring,SS122,English Composition,3,A,4,1.41,1.84,0
+125,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,1.41,1.84,0
+125,Spring,CL217,Computer Programming Lab,1,F,0,1.41,1.84,0
+125,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+125,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+125,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+125,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+125,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+125,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+125,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+125,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+126,Fall,MT104,Linear Algebra,3,C,2,1.69,1.69,0
+126,Fall,CS118,Programming Fundamentals,3,F,0,1.69,1.69,0
+126,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1.69,1.69,0
+126,Fall,SS101,English Language,3,C,2,1.69,1.69,0
+126,Fall,EE182,Basic Electronics,3,C,2,1.69,1.69,0
+126,Fall,SL101,English Language Lab,1,B,3,1.69,1.69,0
+126,Fall,CL118,Programming Fundamentals - Lab,1,C-,1.67,1.69,1.69,0
+126,Spring,SS122,English Composition,3,C-,1.67,1.47,1.73,0
+126,Spring,SS113,Pakistan Studies,3,C,2,1.47,1.73,0
+126,Spring,EE227,Digital Logic Design,3,C,2,1.47,1.73,0
+126,Spring,EL227,Digital Logic Design - Lab,1,C,2,1.47,1.73,0
+126,Spring,CL118,Programming Fundamentals - Lab,1,D,1,1.47,1.73,0
+126,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.47,1.73,0
+126,Spring,CS118,Programming Fundamentals,3,F,0,1.47,1.73,0
+126,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+126,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+126,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+126,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+126,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+126,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+126,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+126,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+126,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+126,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+127,Fall,SS101,English Language,3,C,2,2.88,2.88,0
+127,Fall,EE182,Basic Electronics,3,B+,3.33,2.88,2.88,0
+127,Fall,SL101,English Language Lab,1,B,3,2.88,2.88,0
+127,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.88,2.88,0
+127,Fall,MT104,Linear Algebra,3,B+,3.33,2.88,2.88,0
+127,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.88,2.88,0
+127,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.88,2.88,0
+127,Fall,CS201,Data Structures,3,A-,3.67,3.13,2.85,0
+127,Spring,CS217,Computer Programming,3,C,2,2.16,2.52,0
+127,Spring,CL217,Computer Programming Lab,1,B,3,2.16,2.52,0
+127,Spring,EE227,Digital Logic Design,3,C+,2.33,2.16,2.52,0
+127,Spring,SS122,English Composition,3,D,1,2.16,2.52,0
+127,Spring,SS113,Pakistan Studies,3,C-,1.67,2.16,2.52,0
+127,Spring,MT224,Differential Equations (Cal II),3,B+,3.33,2.16,2.52,0
+127,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.16,2.52,0
+127,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+127,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+127,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+127,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+127,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+127,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+127,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+128,Fall,SS101,English Language,3,C-,1.67,2.39,2.39,0
+128,Fall,CS118,Programming Fundamentals,3,C,2,2.39,2.39,0
+128,Fall,MT104,Linear Algebra,3,B,3,2.39,2.39,0
+128,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.39,2.39,0
+128,Fall,SL101,English Language Lab,1,B+,3.33,2.39,2.39,0
+128,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.39,2.39,0
+128,Fall,EE182,Basic Electronics,3,C,2,2.39,2.39,0
+128,Fall,CS201,Data Structures,3,B,3,2.65,2.51,0
+128,Spring,EE227,Digital Logic Design,3,B-,2.67,1.94,2.17,0
+128,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.94,2.17,0
+128,Spring,SS122,English Composition,3,C+,2.33,1.94,2.17,0
+128,Spring,CL217,Computer Programming Lab,1,C-,1.67,1.94,2.17,0
+128,Spring,CS217,Computer Programming,3,C-,1.67,1.94,2.17,0
+128,Spring,SS113,Pakistan Studies,3,C-,1.67,1.94,2.17,0
+128,Spring,EL227,Digital Logic Design - Lab,1,D+,1.33,1.94,2.17,0
+128,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+128,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+128,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+128,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+128,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+128,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+128,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+129,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.55,1.55,0
+129,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,1.55,1.55,0
+129,Fall,CS118,Programming Fundamentals,3,F,0,1.55,1.55,0
+129,Fall,EE182,Basic Electronics,3,D+,1.33,1.55,1.55,0
+129,Fall,SL101,English Language Lab,1,B+,3.33,1.55,1.55,0
+129,Fall,SS101,English Language,3,B,3,1.55,1.55,0
+129,Fall,MT104,Linear Algebra,3,D,1,1.55,1.55,0
+129,Fall,CS201,Data Structures,3,F,0,0.62,1.62,0
+129,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.96,1.99,0
+129,Spring,SS122,English Composition,3,B,3,1.96,1.99,0
+129,Spring,CS118,Programming Fundamentals,3,D+,1.33,1.96,1.99,0
+129,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,1.96,1.99,0
+129,Spring,CL118,Programming Fundamentals - Lab,1,D,1,1.96,1.99,0
+129,Spring,SS111,Islamic and Religious Studies,3,C,2,1.96,1.99,0
+129,Spring,EE227,Digital Logic Design,3,C-,1.67,1.96,1.99,0
+129,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+129,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+129,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+129,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+129,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+129,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+129,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+129,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+129,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+130,Fall,SL101,English Language Lab,1,A,4,2.29,2.29,0
+130,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.29,2.29,0
+130,Fall,MT104,Linear Algebra,3,D,1,2.29,2.29,0
+130,Fall,CL118,Programming Fundamentals - Lab,1,C,2,2.29,2.29,0
+130,Fall,EE182,Basic Electronics,3,D,1,2.29,2.29,0
+130,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.29,2.29,0
+130,Fall,SS101,English Language,3,A,4,2.29,2.29,0
+130,Fall,CS201,Data Structures,3,C+,2.33,2.6,2.68,0
+130,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,3.14,2.72,0
+130,Spring,EE227,Digital Logic Design,3,B+,3.33,3.14,2.72,0
+130,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,3.14,2.72,0
+130,Spring,SS122,English Composition,3,A,4,3.14,2.72,0
+130,Spring,SS113,Pakistan Studies,3,A-,3.67,3.14,2.72,0
+130,Spring,CS217,Computer Programming,3,C+,2.33,3.14,2.72,0
+130,Spring,CL217,Computer Programming Lab,1,A-,3.67,3.14,2.72,0
+130,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+130,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+130,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+130,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+130,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+130,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+130,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+131,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.35,2.35,0
+131,Fall,MT104,Linear Algebra,3,C-,1.67,2.35,2.35,0
+131,Fall,SS101,English Language,3,B+,3.33,2.35,2.35,0
+131,Fall,CL118,Programming Fundamentals - Lab,1,A-,3.67,2.35,2.35,0
+131,Fall,SL101,English Language Lab,1,B+,3.33,2.35,2.35,0
+131,Fall,EE182,Basic Electronics,3,D+,1.33,2.35,2.35,0
+131,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.35,2.35,0
+131,Spring,EL227,Digital Logic Design - Lab,1,B,3,2,2.18,0
+131,Spring,CS217,Computer Programming,3,D+,1.33,2,2.18,0
+131,Spring,SS111,Islamic and Religious Studies,3,B,3,2,2.18,0
+131,Spring,EE227,Digital Logic Design,3,C-,1.67,2,2.18,0
+131,Spring,CL217,Computer Programming Lab,1,F,0,2,2.18,0
+131,Spring,SS122,English Composition,3,C+,2.33,2,2.18,0
+131,Spring,MT224,Differential Equations (Cal II),3,C,2,2,2.18,0
+131,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+131,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+131,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+131,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+131,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+131,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+131,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+131,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+132,Fall,EE182,Basic Electronics,3,C-,1.67,2.59,2.59,0
+132,Fall,SS101,English Language,3,B+,3.33,2.59,2.59,0
+132,Fall,MT104,Linear Algebra,3,C-,1.67,2.59,2.59,0
+132,Fall,CS118,Programming Fundamentals,3,B-,2.67,2.59,2.59,0
+132,Fall,CL118,Programming Fundamentals - Lab,1,B,3,2.59,2.59,0
+132,Fall,SL101,English Language Lab,1,B,3,2.59,2.59,0
+132,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.59,2.59,0
+132,Spring,CL217,Computer Programming Lab,1,F,0,1.43,2.01,0
+132,Spring,EE227,Digital Logic Design,3,C-,1.67,1.43,2.01,0
+132,Spring,CS217,Computer Programming,3,F,0,1.43,2.01,0
+132,Spring,SS113,Pakistan Studies,3,C,2,1.43,2.01,0
+132,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,1.43,2.01,0
+132,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.43,2.01,0
+132,Spring,SS122,English Composition,3,C,2,1.43,2.01,0
+132,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+132,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+132,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+132,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+132,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+132,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+132,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+132,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+133,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+133,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+133,Fall,SS101,English Language,3,L1,0,0,0,1
+133,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+133,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+133,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+133,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+133,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+133,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+133,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+133,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+133,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+133,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+133,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+133,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+133,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+133,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+133,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+133,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+133,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+133,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+133,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+134,Fall,SL101,English Language Lab,1,L2,0,0,0,1
+134,Fall,EE182,Basic Electronics,3,L2,0,0,0,1
+134,Fall,MT104,Linear Algebra,3,L2,0,0,0,1
+134,Fall,CS118,Programming Fundamentals,3,L2,0,0,0,1
+134,Fall,MT119,Calculus and Analytical Geometry,3,L2,0,0,0,1
+134,Fall,CL118,Programming Fundamentals - Lab,1,L2,0,0,0,1
+134,Fall,SS101,English Language,3,L2,0,0,0,1
+134,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+134,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+134,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+134,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+134,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+134,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+134,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+134,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+134,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+134,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+134,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+134,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+134,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+134,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+134,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+135,Fall,MT104,Linear Algebra,3,C,2,1.82,1.82,1
+135,Fall,SS101,English Language,3,B-,2.67,1.82,1.82,1
+135,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.82,1.82,1
+135,Fall,CS118,Programming Fundamentals,3,F,0,1.82,1.82,1
+135,Fall,SL101,English Language Lab,1,B,3,1.82,1.82,1
+135,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1.82,1.82,1
+135,Fall,EE182,Basic Electronics,3,B-,2.67,1.82,1.82,1
+135,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+135,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+135,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+135,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+135,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+135,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+135,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+135,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+135,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+135,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+135,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+135,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+135,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+135,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+135,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+136,Fall,CL118,Programming Fundamentals - Lab,1,A-,3.67,3.08,3.08,0
+136,Fall,CS118,Programming Fundamentals,3,B+,3.33,3.08,3.08,0
+136,Fall,SL101,English Language Lab,1,A-,3.67,3.08,3.08,0
+136,Fall,EE182,Basic Electronics,3,B-,2.67,3.08,3.08,0
+136,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,3.08,3.08,0
+136,Fall,SS101,English Language,3,A-,3.67,3.08,3.08,0
+136,Fall,MT104,Linear Algebra,3,B,3,3.08,3.08,0
+136,Fall,CS201,Data Structures,3,A-,3.67,3.19,3.05,0
+136,Spring,SS122,English Composition,3,B,3,2.9,2.99,0
+136,Spring,CL217,Computer Programming Lab,1,B-,2.67,2.9,2.99,0
+136,Spring,EE227,Digital Logic Design,3,B-,2.67,2.9,2.99,0
+136,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.9,2.99,0
+136,Spring,SS111,Islamic and Religious Studies,3,B,3,2.9,2.99,0
+136,Spring,MT224,Differential Equations (Cal II),3,B,3,2.9,2.99,0
+136,Spring,CS217,Computer Programming,3,B,3,2.9,2.99,0
+136,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+136,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+136,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+136,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+136,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+136,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+136,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+137,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+137,Fall,SS101,English Language,3,L1,0,0,0,1
+137,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+137,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+137,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+137,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+137,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+137,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+137,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+137,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+137,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+137,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+137,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+137,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+137,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+137,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+137,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+137,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+137,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+137,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+137,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+137,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+138,Fall,SL101,English Language Lab,1,A-,3.67,2.75,2.75,0
+138,Fall,CS118,Programming Fundamentals,3,A,4,2.75,2.75,0
+138,Fall,MT104,Linear Algebra,3,B-,2.67,2.75,2.75,0
+138,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,2.75,2.75,0
+138,Fall,SS101,English Language,3,B+,3.33,2.75,2.75,0
+138,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,2.75,2.75,0
+138,Fall,EE182,Basic Electronics,3,C-,1.67,2.75,2.75,0
+138,Fall,CS201,Data Structures,3,A-,3.67,2.44,2.61,0
+138,Spring,EL227,Digital Logic Design - Lab,1,C,2,2.65,2.7,0
+138,Spring,CL217,Computer Programming Lab,1,A,4,2.65,2.7,0
+138,Spring,SS113,Pakistan Studies,3,D+,1.33,2.65,2.7,0
+138,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.65,2.7,0
+138,Spring,CS217,Computer Programming,3,A-,3.67,2.65,2.7,0
+138,Spring,EE227,Digital Logic Design,3,A-,3.67,2.65,2.7,0
+138,Spring,SS122,English Composition,3,B-,2.67,2.65,2.7,0
+138,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+138,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+138,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+138,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+138,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+138,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+138,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+139,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,2.59,2.59,0
+139,Fall,CS118,Programming Fundamentals,3,B,3,2.59,2.59,0
+139,Fall,MT104,Linear Algebra,3,C,2,2.59,2.59,0
+139,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.59,2.59,0
+139,Fall,SS101,English Language,3,D,1,2.59,2.59,0
+139,Fall,SL101,English Language Lab,1,B-,2.67,2.59,2.59,0
+139,Fall,EE182,Basic Electronics,3,A-,3.67,2.59,2.59,0
+139,Fall,CS201,Data Structures,3,B+,3.33,2.44,2.47,0
+139,Spring,SS122,English Composition,3,F,0,2.39,2.49,0
+139,Spring,CS217,Computer Programming,3,B+,3.33,2.39,2.49,0
+139,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,2.39,2.49,0
+139,Spring,EL227,Digital Logic Design - Lab,1,C,2,2.39,2.49,0
+139,Spring,MT224,Differential Equations (Cal II),3,B,3,2.39,2.49,0
+139,Spring,CL217,Computer Programming Lab,1,B-,2.67,2.39,2.49,0
+139,Spring,EE227,Digital Logic Design,3,B+,3.33,2.39,2.49,0
+139,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+139,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+139,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+139,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+139,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+139,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+139,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+140,Fall,MT104,Linear Algebra,3,B-,2.67,2.24,2.24,0
+140,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.24,2.24,0
+140,Fall,SL101,English Language Lab,1,B,3,2.24,2.24,0
+140,Fall,SS101,English Language,3,B,3,2.24,2.24,0
+140,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.24,2.24,0
+140,Fall,CS118,Programming Fundamentals,3,F,0,2.24,2.24,0
+140,Fall,EE182,Basic Electronics,3,B+,3.33,2.24,2.24,0
+140,Fall,CS201,Data Structures,3,B-,2.67,2.46,2.62,0
+140,Spring,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.53,2.7,0
+140,Spring,SS111,Islamic and Religious Studies,3,A,4,2.53,2.7,0
+140,Spring,SS122,English Composition,3,D,1,2.53,2.7,0
+140,Spring,CS118,Programming Fundamentals,3,B-,2.67,2.53,2.7,0
+140,Spring,EE227,Digital Logic Design,3,C+,2.33,2.53,2.7,0
+140,Spring,MT224,Differential Equations (Cal II),3,B,3,2.53,2.7,0
+140,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.53,2.7,0
+140,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+140,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+140,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+140,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+140,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+140,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+140,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+140,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+140,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+141,Fall,SS101,English Language,3,D,1,3.27,3.27,0
+141,Fall,SL101,English Language Lab,1,C+,2.33,3.27,3.27,0
+141,Fall,MT104,Linear Algebra,3,A+,4,3.27,3.27,0
+141,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,3.27,3.27,0
+141,Fall,CS118,Programming Fundamentals,3,A-,3.67,3.27,3.27,0
+141,Fall,MT119,Calculus and Analytical Geometry,3,A+,4,3.27,3.27,0
+141,Fall,EE182,Basic Electronics,3,A,4,3.27,3.27,0
+141,Fall,CS201,Data Structures,3,B,3,2.31,2.9,0
+141,Spring,CS217,Computer Programming,3,A-,3.67,3.08,3.18,0
+141,Spring,SS122,English Composition,3,D,1,3.08,3.18,0
+141,Spring,EL227,Digital Logic Design - Lab,1,A,4,3.08,3.18,0
+141,Spring,EE227,Digital Logic Design,3,A+,4,3.08,3.18,0
+141,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,3.08,3.18,0
+141,Spring,CL217,Computer Programming Lab,1,B+,3.33,3.08,3.18,0
+141,Spring,MT224,Differential Equations (Cal II),3,A+,4,3.08,3.18,0
+141,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+141,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+141,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+141,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+141,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+141,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+141,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+142,Fall,MT104,Linear Algebra,3,A-,3.67,2.49,2.49,0
+142,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.49,2.49,0
+142,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.49,2.49,0
+142,Fall,CS118,Programming Fundamentals,3,F,0,2.49,2.49,0
+142,Fall,EE182,Basic Electronics,3,B+,3.33,2.49,2.49,0
+142,Fall,SS101,English Language,3,B+,3.33,2.49,2.49,0
+142,Fall,SL101,English Language Lab,1,B+,3.33,2.49,2.49,0
+142,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,2.08,2.59,0
+142,Spring,CS118,Programming Fundamentals,3,D,1,2.08,2.59,0
+142,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.08,2.59,0
+142,Spring,SS122,English Composition,3,B-,2.67,2.08,2.59,0
+142,Spring,SS113,Pakistan Studies,3,D,1,2.08,2.59,0
+142,Spring,CL118,Programming Fundamentals - Lab,1,F,0,2.08,2.59,0
+142,Spring,EE227,Digital Logic Design,3,B-,2.67,2.08,2.59,0
+142,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+142,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+142,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+142,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+142,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+142,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+142,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+142,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+142,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+142,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+143,Fall,SL101,English Language Lab,1,A-,3.67,2.41,2.41,0
+143,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,2.41,2.41,0
+143,Fall,EE182,Basic Electronics,3,C-,1.67,2.41,2.41,0
+143,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,2.41,2.41,0
+143,Fall,MT104,Linear Algebra,3,B-,2.67,2.41,2.41,0
+143,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.41,2.41,0
+143,Fall,SS101,English Language,3,B+,3.33,2.41,2.41,0
+143,Fall,CS201,Data Structures,3,B,3,2.25,2.26,0
+143,Spring,SS122,English Composition,3,D+,1.33,2.12,2.27,0
+143,Spring,SS113,Pakistan Studies,3,B-,2.67,2.12,2.27,0
+143,Spring,MT224,Differential Equations (Cal II),3,B,3,2.12,2.27,0
+143,Spring,CS217,Computer Programming,3,C-,1.67,2.12,2.27,0
+143,Spring,EE227,Digital Logic Design,3,C-,1.67,2.12,2.27,0
+143,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,2.12,2.27,0
+143,Spring,CL217,Computer Programming Lab,1,C-,1.67,2.12,2.27,0
+143,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+143,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+143,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+143,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+143,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+143,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+143,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+144,Fall,EE182,Basic Electronics,3,D+,1.33,1.41,1.41,2
+144,Fall,SL101,English Language Lab,1,B,3,1.41,1.41,2
+144,Fall,MT119,Calculus and Analytical Geometry,3,D,1,1.41,1.41,2
+144,Fall,MT104,Linear Algebra,3,D+,1.33,1.41,1.41,2
+144,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.41,1.41,2
+144,Fall,CS118,Programming Fundamentals,3,F,0,1.41,1.41,2
+144,Fall,SS101,English Language,3,B,3,1.41,1.41,2
+144,Spring,MT119,Calculus and Analytical Geometry,3,FA,0,0.96,1.34,2
+144,Spring,EE227,Digital Logic Design,3,F,0,0.96,1.34,2
+144,Spring,SS122,English Composition,3,C,2,0.96,1.34,2
+144,Spring,SS111,Islamic and Religious Studies,3,FA,0,0.96,1.34,2
+144,Spring,CL118,Programming Fundamentals - Lab,1,B+,3.33,0.96,1.34,2
+144,Spring,EL227,Digital Logic Design - Lab,1,FA,0,0.96,1.34,2
+144,Spring,CS118,Programming Fundamentals,3,C+,2.33,0.96,1.34,2
+144,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+144,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+144,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+144,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+144,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+144,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+144,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+144,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+144,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+144,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+144,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+145,Fall,EE182,Basic Electronics,3,F,0,1,1,0
+145,Fall,MT104,Linear Algebra,3,F,0,1,1,0
+145,Fall,CS118,Programming Fundamentals,3,F,0,1,1,0
+145,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1,1,0
+145,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,1,1,0
+145,Fall,SS101,English Language,3,B-,2.67,1,1,0
+145,Fall,SL101,English Language Lab,1,C-,1.67,1,1,0
+145,Spring,CL118,Programming Fundamentals - Lab,1,B-,2.67,2.04,1.86,0
+145,Spring,SS122,English Composition,3,D,1,2.04,1.86,0
+145,Spring,CS118,Programming Fundamentals,3,C-,1.67,2.04,1.86,0
+145,Spring,MT224,Differential Equations (Cal II),3,B+,3.33,2.04,1.86,0
+145,Spring,MT104,Linear Algebra,3,B,3,2.04,1.86,0
+145,Spring,EL227,Digital Logic Design - Lab,1,D,1,2.04,1.86,0
+145,Spring,EE227,Digital Logic Design,3,D+,1.33,2.04,1.86,0
+145,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+145,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+145,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+145,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+145,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+145,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+145,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+145,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+145,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+145,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+145,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+146,Fall,CS118,Programming Fundamentals,3,F,0,1.79,1.79,3
+146,Fall,MT104,Linear Algebra,3,C,2,1.79,1.79,3
+146,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.79,1.79,3
+146,Fall,SL101,English Language Lab,1,C+,2.33,1.79,1.79,3
+146,Fall,SS101,English Language,3,B-,2.67,1.79,1.79,3
+146,Fall,MT119,Calculus and Analytical Geometry,3,B,3,1.79,1.79,3
+146,Fall,EE182,Basic Electronics,3,C-,1.67,1.79,1.79,3
+146,Spring,CS118,Programming Fundamentals,3,C-,1.67,1.26,1.72,3
+146,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,1.26,1.72,3
+146,Spring,SS122,English Composition,3,D,1,1.26,1.72,3
+146,Spring,CL118,Programming Fundamentals - Lab,1,C-,1.67,1.26,1.72,3
+146,Spring,EE227,Digital Logic Design,3,C,2,1.26,1.72,3
+146,Spring,SS113,Pakistan Studies,3,F,0,1.26,1.72,3
+146,Spring,MT224,Differential Equations (Cal II),3,D,1,1.26,1.72,3
+146,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+146,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+146,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+146,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+146,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+146,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+146,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+146,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+146,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+146,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+147,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.43,0.43,1
+147,Fall,EE182,Basic Electronics,3,F,0,0.43,0.43,1
+147,Fall,SL101,English Language Lab,1,C+,2.33,0.43,0.43,1
+147,Fall,MT104,Linear Algebra,3,F,0,0.43,0.43,1
+147,Fall,SS101,English Language,3,C-,1.67,0.43,0.43,1
+147,Fall,MT119,Calculus and Analytical Geometry,3,F,0,0.43,0.43,1
+147,Fall,CS118,Programming Fundamentals,3,F,0,0.43,0.43,1
+147,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+147,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+147,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+147,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+147,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+147,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+147,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+147,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+147,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+147,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+147,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+147,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+147,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+147,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+147,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+148,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.65,2.65,0
+148,Fall,MT104,Linear Algebra,3,C,2,2.65,2.65,0
+148,Fall,SS101,English Language,3,A,4,2.65,2.65,0
+148,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.65,2.65,0
+148,Fall,SL101,English Language Lab,1,A-,3.67,2.65,2.65,0
+148,Fall,EE182,Basic Electronics,3,B+,3.33,2.65,2.65,0
+148,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.65,2.65,0
+148,Spring,CL217,Computer Programming Lab,1,D,1,1.9,2.27,0
+148,Spring,SS111,Islamic and Religious Studies,3,B,3,1.9,2.27,0
+148,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,1.9,2.27,0
+148,Spring,CS217,Computer Programming,3,F,0,1.9,2.27,0
+148,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.9,2.27,0
+148,Spring,EE227,Digital Logic Design,3,D+,1.33,1.9,2.27,0
+148,Spring,SS122,English Composition,3,A-,3.67,1.9,2.27,0
+148,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+148,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+148,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+148,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+148,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+148,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+148,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+148,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+149,Fall,SS101,English Language,3,D,1,1.24,1.24,0
+149,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.24,1.24,0
+149,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,1.24,1.24,0
+149,Fall,CS118,Programming Fundamentals,3,F,0,1.24,1.24,0
+149,Fall,EE182,Basic Electronics,3,C,2,1.24,1.24,0
+149,Fall,MT104,Linear Algebra,3,C-,1.67,1.24,1.24,0
+149,Fall,SL101,English Language Lab,1,F,0,1.24,1.24,0
+149,Spring,EE227,Digital Logic Design,3,C-,1.67,1.83,1.73,0
+149,Spring,EL227,Digital Logic Design - Lab,1,D+,1.33,1.83,1.73,0
+149,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,1.83,1.73,0
+149,Spring,CS118,Programming Fundamentals,3,C,2,1.83,1.73,0
+149,Spring,SS113,Pakistan Studies,3,C-,1.67,1.83,1.73,0
+149,Spring,CL118,Programming Fundamentals - Lab,1,D+,1.33,1.83,1.73,0
+149,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+149,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+149,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+149,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+149,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+149,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+149,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+149,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+149,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+149,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+149,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+150,Fall,CL118,Programming Fundamentals - Lab,1,B-,2.67,3.1,3.1,0
+150,Fall,MT104,Linear Algebra,3,B,3,3.1,3.1,0
+150,Fall,SS101,English Language,3,A,4,3.1,3.1,0
+150,Fall,MT119,Calculus and Analytical Geometry,3,B,3,3.1,3.1,0
+150,Fall,CS118,Programming Fundamentals,3,C+,2.33,3.1,3.1,0
+150,Fall,SL101,English Language Lab,1,A,4,3.1,3.1,0
+150,Fall,EE182,Basic Electronics,3,B,3,3.1,3.1,0
+150,Fall,CS201,Data Structures,3,C+,2.33,2.86,3.09,0
+150,Spring,SS111,Islamic and Religious Studies,3,B,3,3.29,3.2,0
+150,Spring,MT224,Differential Equations (Cal II),3,B+,3.33,3.29,3.2,0
+150,Spring,EE227,Digital Logic Design,3,A-,3.67,3.29,3.2,0
+150,Spring,SS122,English Composition,3,A,4,3.29,3.2,0
+150,Spring,CL217,Computer Programming Lab,1,B-,2.67,3.29,3.2,0
+150,Spring,CS217,Computer Programming,3,B-,2.67,3.29,3.2,0
+150,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,3.29,3.2,0
+150,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+150,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+150,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+150,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+150,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+150,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+150,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+151,Fall,MT119,Calculus and Analytical Geometry,3,L2,0,0,0,1
+151,Fall,EE182,Basic Electronics,3,L2,0,0,0,1
+151,Fall,SL101,English Language Lab,1,L2,0,0,0,1
+151,Fall,CS118,Programming Fundamentals,3,L2,0,0,0,1
+151,Fall,CL118,Programming Fundamentals - Lab,1,L2,0,0,0,1
+151,Fall,SS101,English Language,3,L2,0,0,0,1
+151,Fall,MT104,Linear Algebra,3,L2,0,0,0,1
+151,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+151,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+151,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+151,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+151,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+151,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+151,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+151,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+151,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+151,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+151,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+151,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+151,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+151,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+151,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+152,Fall,EE182,Basic Electronics,3,A-,3.67,3.12,3.12,0
+152,Fall,SL101,English Language Lab,1,F,0,3.12,3.12,0
+152,Fall,MT104,Linear Algebra,3,B+,3.33,3.12,3.12,0
+152,Fall,SS101,English Language,3,B,3,3.12,3.12,0
+152,Fall,CS118,Programming Fundamentals,3,B-,2.67,3.12,3.12,0
+152,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.12,3.12,0
+152,Fall,CL118,Programming Fundamentals - Lab,1,A,4,3.12,3.12,0
+152,Fall,CS201,Data Structures,3,B,3,3.28,3.21,0
+152,Spring,CL217,Computer Programming Lab,1,A-,3.67,3,3.06,0
+152,Spring,SS111,Islamic and Religious Studies,3,B+,3.33,3,3.06,0
+152,Spring,MT224,Differential Equations (Cal II),3,B,3,3,3.06,0
+152,Spring,EE227,Digital Logic Design,3,B,3,3,3.06,0
+152,Spring,CS217,Computer Programming,3,C+,2.33,3,3.06,0
+152,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,3,3.06,0
+152,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+152,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+152,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+152,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+152,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+152,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+152,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+152,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+153,Fall,EE182,Basic Electronics,3,F,0,0.96,0.96,0
+153,Fall,SS101,English Language,3,B+,3.33,0.96,0.96,0
+153,Fall,MT104,Linear Algebra,3,F,0,0.96,0.96,0
+153,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.96,0.96,0
+153,Fall,SL101,English Language Lab,1,B+,3.33,0.96,0.96,0
+153,Fall,CS118,Programming Fundamentals,3,F,0,0.96,0.96,0
+153,Fall,MT119,Calculus and Analytical Geometry,3,D,1,0.96,0.96,0
+153,Spring,EE182,Basic Electronics,3,C-,1.67,1.81,2.12,0
+153,Spring,CL118,Programming Fundamentals - Lab,1,C,2,1.81,2.12,0
+153,Spring,MT119,Calculus and Analytical Geometry,3,D,1,1.81,2.12,0
+153,Spring,MT104,Linear Algebra,3,C,2,1.81,2.12,0
+153,Spring,CS118,Programming Fundamentals,3,D+,1.33,1.81,2.12,0
+153,Spring,SS122,English Composition,3,B,3,1.81,2.12,0
+153,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+153,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+153,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+153,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+153,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+153,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+153,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+153,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+153,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+153,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+153,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+153,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+153,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+153,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+154,Fall,MT119,Calculus and Analytical Geometry,3,D,1,0.92,0.92,1
+154,Fall,SS101,English Language,3,D,1,0.92,0.92,1
+154,Fall,SL101,English Language Lab,1,B-,2.67,0.92,0.92,1
+154,Fall,EE182,Basic Electronics,3,D,1,0.92,0.92,1
+154,Fall,MT104,Linear Algebra,3,D+,1.33,0.92,0.92,1
+154,Fall,CS118,Programming Fundamentals,3,F,0,0.92,0.92,1
+154,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.92,0.92,1
+154,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+154,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+154,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+154,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+154,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+154,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+154,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+154,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+154,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+154,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+154,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+154,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+154,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+154,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+154,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+155,Fall,CS118,Programming Fundamentals,3,D+,1.33,1.98,1.98,0
+155,Fall,MT104,Linear Algebra,3,C,2,1.98,1.98,0
+155,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,1.98,1.98,0
+155,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,1.98,1.98,0
+155,Fall,SL101,English Language Lab,1,D+,1.33,1.98,1.98,0
+155,Fall,SS101,English Language,3,B,3,1.98,1.98,0
+155,Fall,EE182,Basic Electronics,3,C,2,1.98,1.98,0
+155,Fall,CS201,Data Structures,3,F,0,1.31,1.78,0
+155,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.02,2,0
+155,Spring,CS217,Computer Programming,3,D,1,2.02,2,0
+155,Spring,EE227,Digital Logic Design,3,C,2,2.02,2,0
+155,Spring,CL217,Computer Programming Lab,1,D,1,2.02,2,0
+155,Spring,SS122,English Composition,3,B-,2.67,2.02,2,0
+155,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.02,2,0
+155,Spring,SS111,Islamic and Religious Studies,3,B,3,2.02,2,0
+155,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+155,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+155,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+155,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+155,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+155,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+155,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+156,Fall,SS101,English Language,3,A-,3.67,3.55,3.55,0
+156,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,3.55,3.55,0
+156,Fall,MT119,Calculus and Analytical Geometry,3,A,4,3.55,3.55,0
+156,Fall,CS118,Programming Fundamentals,3,B-,2.67,3.55,3.55,0
+156,Fall,MT104,Linear Algebra,3,B+,3.33,3.55,3.55,0
+156,Fall,EE182,Basic Electronics,3,A,4,3.55,3.55,0
+156,Fall,SL101,English Language Lab,1,A+,4,3.55,3.55,0
+156,Fall,CS201,Data Structures,3,B-,2.67,2.29,2.86,0
+156,Spring,SS122,English Composition,3,A-,3.67,2.71,3.13,0
+156,Spring,EE227,Digital Logic Design,3,B,3,2.71,3.13,0
+156,Spring,CS217,Computer Programming,3,C+,2.33,2.71,3.13,0
+156,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.71,3.13,0
+156,Spring,SS111,Islamic and Religious Studies,3,B,3,2.71,3.13,0
+156,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.71,3.13,0
+156,Spring,CL217,Computer Programming Lab,1,B-,2.67,2.71,3.13,0
+156,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+156,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+156,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+156,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+156,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+156,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+156,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+157,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+157,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+157,Fall,SS101,English Language,3,L1,0,0,0,1
+157,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+157,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+157,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+157,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+157,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+157,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+157,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+157,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+157,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+157,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+157,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+157,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+157,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+157,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+157,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+157,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+157,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+157,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+157,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+158,Fall,MT119,Calculus and Analytical Geometry,3,L2,0,0,0,1
+158,Fall,SL101,English Language Lab,1,L2,0,0,0,1
+158,Fall,CL118,Programming Fundamentals - Lab,1,L2,0,0,0,1
+158,Fall,EE182,Basic Electronics,3,L2,0,0,0,1
+158,Fall,MT104,Linear Algebra,3,L2,0,0,0,1
+158,Fall,SS101,English Language,3,L2,0,0,0,1
+158,Fall,CS118,Programming Fundamentals,3,L2,0,0,0,1
+158,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+158,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+158,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+158,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+158,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+158,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+158,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+158,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+158,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+158,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+158,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+158,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+158,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+158,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+158,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+159,Fall,SL101,English Language Lab,1,A,4,3.47,3.47,0
+159,Fall,EE182,Basic Electronics,3,A,4,3.47,3.47,0
+159,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,3.47,3.47,0
+159,Fall,MT104,Linear Algebra,3,B+,3.33,3.47,3.47,0
+159,Fall,CS118,Programming Fundamentals,3,B+,3.33,3.47,3.47,0
+159,Fall,CL118,Programming Fundamentals - Lab,1,A,4,3.47,3.47,0
+159,Fall,SS101,English Language,3,B,3,3.47,3.47,0
+159,Fall,CS201,Data Structures,3,A-,3.67,3,3.27,0
+159,Spring,EE227,Digital Logic Design,3,A,4,3.33,3.4,0
+159,Spring,MT224,Differential Equations (Cal II),3,A,4,3.33,3.4,0
+159,Spring,CS217,Computer Programming,3,B,3,3.33,3.4,0
+159,Spring,CL217,Computer Programming Lab,1,A-,3.67,3.33,3.4,0
+159,Spring,SS122,English Composition,3,D+,1.33,3.33,3.4,0
+159,Spring,SS111,Islamic and Religious Studies,3,A,4,3.33,3.4,0
+159,Spring,EL227,Digital Logic Design - Lab,1,A,4,3.33,3.4,0
+159,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+159,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+159,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+159,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+159,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+159,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+159,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+160,Fall,MT104,Linear Algebra,3,B+,3.33,2.45,2.45,0
+160,Fall,CL118,Programming Fundamentals - Lab,1,C,2,2.45,2.45,0
+160,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,2.45,2.45,0
+160,Fall,SS101,English Language,3,B+,3.33,2.45,2.45,0
+160,Fall,EE182,Basic Electronics,3,B-,2.67,2.45,2.45,0
+160,Fall,SL101,English Language Lab,1,A-,3.67,2.45,2.45,0
+160,Fall,CS118,Programming Fundamentals,3,D,1,2.45,2.45,0
+160,Fall,CS201,Data Structures,3,C+,2.33,1.87,2.3,0
+160,Spring,SS122,English Composition,3,B,3,1.8,2.13,0
+160,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,1.8,2.13,0
+160,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,1.8,2.13,0
+160,Spring,CL217,Computer Programming Lab,1,F,0,1.8,2.13,0
+160,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,1.8,2.13,0
+160,Spring,EE227,Digital Logic Design,3,C+,2.33,1.8,2.13,0
+160,Spring,CS217,Computer Programming,3,F,0,1.8,2.13,0
+160,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+160,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+160,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+160,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+160,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+160,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+160,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+161,Fall,SL101,English Language Lab,1,B+,3.33,1.84,1.84,0
+161,Fall,MT104,Linear Algebra,3,C-,1.67,1.84,1.84,0
+161,Fall,CS118,Programming Fundamentals,3,F,0,1.84,1.84,0
+161,Fall,EE182,Basic Electronics,3,C+,2.33,1.84,1.84,0
+161,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.84,1.84,0
+161,Fall,SS101,English Language,3,B+,3.33,1.84,1.84,0
+161,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1.84,1.84,0
+161,Fall,CS201,Data Structures,3,C-,1.67,2.04,2.23,0
+161,Spring,CS118,Programming Fundamentals,3,C-,1.67,2.05,2.22,0
+161,Spring,CL118,Programming Fundamentals - Lab,1,B,3,2.05,2.22,0
+161,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,2.05,2.22,0
+161,Spring,SS122,English Composition,3,C+,2.33,2.05,2.22,0
+161,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,2.05,2.22,0
+161,Spring,EE227,Digital Logic Design,3,C-,1.67,2.05,2.22,0
+161,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+161,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+161,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+161,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+161,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+161,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+161,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+161,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+161,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+161,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+162,Fall,CS118,Programming Fundamentals,3,F,0,2.57,2.57,0
+162,Fall,SS101,English Language,3,B+,3.33,2.57,2.57,0
+162,Fall,EE182,Basic Electronics,3,A-,3.67,2.57,2.57,0
+162,Fall,SL101,English Language Lab,1,A-,3.67,2.57,2.57,0
+162,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,2.57,2.57,0
+162,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.57,2.57,0
+162,Fall,MT104,Linear Algebra,3,B-,2.67,2.57,2.57,0
+162,Fall,CS201,Data Structures,3,F,0,1.69,2.36,0
+162,Spring,SS122,English Composition,3,C,2,2.12,2.66,0
+162,Spring,EL227,Digital Logic Design - Lab,1,C,2,2.12,2.66,0
+162,Spring,CL118,Programming Fundamentals - Lab,1,D,1,2.12,2.66,0
+162,Spring,SS111,Islamic and Religious Studies,3,B+,3.33,2.12,2.66,0
+162,Spring,MT224,Differential Equations (Cal II),3,B,3,2.12,2.66,0
+162,Spring,CS118,Programming Fundamentals,3,D+,1.33,2.12,2.66,0
+162,Spring,EE227,Digital Logic Design,3,D+,1.33,2.12,2.66,0
+162,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+162,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+162,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+162,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+162,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+162,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+162,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+162,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+162,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+163,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.67,2.67,0
+163,Fall,SS101,English Language,3,A-,3.67,2.67,2.67,0
+163,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,2.67,2.67,0
+163,Fall,EE182,Basic Electronics,3,A-,3.67,2.67,2.67,0
+163,Fall,SL101,English Language Lab,1,B,3,2.67,2.67,0
+163,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.67,2.67,0
+163,Fall,MT104,Linear Algebra,3,B,3,2.67,2.67,0
+163,Fall,CS201,Data Structures,3,W,0,0,2.45,0
+163,Spring,MT224,Differential Equations (Cal II),3,C,2,1.84,2.26,0
+163,Spring,SS122,English Composition,3,C+,2.33,1.84,2.26,0
+163,Spring,SS113,Pakistan Studies,3,B,3,1.84,2.26,0
+163,Spring,EE227,Digital Logic Design,3,C+,2.33,1.84,2.26,0
+163,Spring,CS217,Computer Programming,3,F,0,1.84,2.26,0
+163,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,1.84,2.26,0
+163,Spring,CL217,Computer Programming Lab,1,F,0,1.84,2.26,0
+163,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+163,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+163,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+163,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+163,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+163,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+163,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+164,Fall,SS111,Islamic and Religious Studies,3,A-,3.67,2.95,2.95,0
+164,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.95,2.95,0
+164,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,2.95,2.95,0
+164,Fall,CS201,Data Structures,3,F,0,2.14,2.18,0
+164,Spring,SS122,English Composition,3,C-,1.67,1.14,1.92,0
+164,Spring,CL217,Computer Programming Lab,1,C,2,1.14,1.92,0
+164,Spring,EE227,Digital Logic Design,3,D,1,1.14,1.92,0
+164,Spring,CS217,Computer Programming,3,F,0,1.14,1.92,0
+164,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,1.14,1.92,0
+164,Unknown,MT119,Calculus and Analytical Geometry,3,UK,-1,0,0,0
+164,Unknown,EE182,Basic Electronics,3,UK,-1,0,0,0
+164,Unknown,SS101,English Language,3,UK,-1,0,0,0
+164,Unknown,MT104,Linear Algebra,3,UK,-1,0,0,0
+164,Unknown,SL101,English Language Lab,1,UK,-1,0,0,0
+164,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+164,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+164,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+164,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+164,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+164,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+164,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+164,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+165,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+165,Fall,SS101,English Language,3,L1,0,0,0,1
+165,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+165,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+165,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+165,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+165,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+165,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+165,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+165,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+165,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+165,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+165,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+165,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+165,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+165,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+165,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+165,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+165,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+165,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+165,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+165,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+166,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+166,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+166,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+166,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+166,Fall,SS101,English Language,3,L1,0,0,0,1
+166,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+166,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+166,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+166,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+166,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+166,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+166,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+166,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+166,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+166,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+166,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+166,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+166,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+166,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+166,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+166,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+166,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+167,Fall,SS101,English Language,3,LL,0,0,0,1
+167,Fall,CS118,Programming Fundamentals,3,LL,0,0,0,1
+167,Fall,CL118,Programming Fundamentals - Lab,1,LL,0,0,0,1
+167,Fall,MT104,Linear Algebra,3,LL,0,0,0,1
+167,Fall,SL101,English Language Lab,1,LL,0,0,0,1
+167,Fall,MT119,Calculus and Analytical Geometry,3,LL,0,0,0,1
+167,Fall,EE182,Basic Electronics,3,LL,0,0,0,1
+167,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+167,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+167,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+167,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+167,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+167,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+167,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+167,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+167,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+167,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+167,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+167,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+167,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+167,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+167,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+168,Fall,EE182,Basic Electronics,3,D,1,1.33,1.33,0
+168,Fall,SS101,English Language,3,B-,2.67,1.33,1.33,0
+168,Fall,CL118,Programming Fundamentals - Lab,1,C,2,1.33,1.33,0
+168,Fall,MT104,Linear Algebra,3,D,1,1.33,1.33,0
+168,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.33,1.33,0
+168,Fall,SL101,English Language Lab,1,B-,2.67,1.33,1.33,0
+168,Fall,CS118,Programming Fundamentals,3,F,0,1.33,1.33,0
+168,Fall,CS201,Data Structures,3,F,0,1.88,2.36,0
+168,Spring,MT104,Linear Algebra,3,A-,3.67,3.16,3.04,0
+168,Spring,EE182,Basic Electronics,3,A-,3.67,3.16,3.04,0
+168,Spring,CL118,Programming Fundamentals - Lab,1,D,1,3.16,3.04,0
+168,Spring,CS118,Programming Fundamentals,3,C+,2.33,3.16,3.04,0
+168,Spring,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.16,3.04,0
+168,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+168,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+168,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+168,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+168,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+168,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+168,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+168,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+168,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+168,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+168,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+168,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+168,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+168,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+169,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,1.78,1.78,0
+169,Fall,MT104,Linear Algebra,3,B-,2.67,1.78,1.78,0
+169,Fall,CS118,Programming Fundamentals,3,F,0,1.78,1.78,0
+169,Fall,SS101,English Language,3,D+,1.33,1.78,1.78,0
+169,Fall,EE182,Basic Electronics,3,C,2,1.78,1.78,0
+169,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.78,1.78,0
+169,Fall,SL101,English Language Lab,1,C+,2.33,1.78,1.78,0
+169,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,2.55,2.51,0
+169,Spring,CL118,Programming Fundamentals - Lab,1,D,1,2.55,2.51,0
+169,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,2.55,2.51,0
+169,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.55,2.51,0
+169,Spring,EE182,Basic Electronics,3,A-,3.67,2.55,2.51,0
+169,Spring,CS118,Programming Fundamentals,3,F,0,2.55,2.51,0
+169,Spring,EE227,Digital Logic Design,3,B+,3.33,2.55,2.51,0
+169,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+169,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+169,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+169,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+169,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+169,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+169,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+169,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+169,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+169,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+169,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+170,Fall,SL101,English Language Lab,1,C+,2.33,2.18,2.18,0
+170,Fall,CL118,Programming Fundamentals - Lab,1,C-,1.67,2.18,2.18,0
+170,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.18,2.18,0
+170,Fall,SS101,English Language,3,B,3,2.18,2.18,0
+170,Fall,EE182,Basic Electronics,3,C,2,2.18,2.18,0
+170,Fall,CS118,Programming Fundamentals,3,D,1,2.18,2.18,0
+170,Fall,MT104,Linear Algebra,3,B-,2.67,2.18,2.18,0
+170,Fall,CS201,Data Structures,3,B-,2.67,1.54,1.81,0
+170,Spring,CS217,Computer Programming,3,C+,2.33,1.33,1.75,0
+170,Spring,CL217,Computer Programming Lab,1,C-,1.67,1.33,1.75,0
+170,Spring,SS113,Pakistan Studies,3,F,0,1.33,1.75,0
+170,Spring,SS122,English Composition,3,D,1,1.33,1.75,0
+170,Spring,EL227,Digital Logic Design - Lab,1,C,2,1.33,1.75,0
+170,Spring,MT224,Differential Equations (Cal II),3,D,1,1.33,1.75,0
+170,Spring,EE227,Digital Logic Design,3,C,2,1.33,1.75,0
+170,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+170,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+170,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+170,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+170,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+170,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+170,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+171,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.04,2.04,0
+171,Fall,CS118,Programming Fundamentals,3,C,2,2.04,2.04,0
+171,Fall,EE182,Basic Electronics,3,F,0,2.04,2.04,0
+171,Fall,CL118,Programming Fundamentals - Lab,1,A-,3.67,2.04,2.04,0
+171,Fall,SS101,English Language,3,B+,3.33,2.04,2.04,0
+171,Fall,MT104,Linear Algebra,3,C-,1.67,2.04,2.04,0
+171,Fall,SL101,English Language Lab,1,A,4,2.04,2.04,0
+171,Fall,CS201,Data Structures,3,F,0,0.67,1.75,0
+171,Spring,CL217,Computer Programming Lab,1,C-,1.67,1.21,1.78,0
+171,Spring,SS111,Islamic and Religious Studies,3,D+,1.33,1.21,1.78,0
+171,Spring,SS122,English Composition,3,D,1,1.21,1.78,0
+171,Spring,CS217,Computer Programming,3,F,0,1.21,1.78,0
+171,Spring,EL227,Digital Logic Design - Lab,1,C,2,1.21,1.78,0
+171,Spring,EE182,Basic Electronics,3,C+,2.33,1.21,1.78,0
+171,Spring,EE227,Digital Logic Design,3,D,1,1.21,1.78,0
+171,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+171,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+171,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+171,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+171,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+171,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+171,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+171,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+172,Fall,SS101,English Language,3,B+,3.33,1.63,1.63,0
+172,Fall,SL101,English Language Lab,1,A-,3.67,1.63,1.63,0
+172,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.63,1.63,0
+172,Fall,EE182,Basic Electronics,3,C-,1.67,1.63,1.63,0
+172,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.63,1.63,0
+172,Fall,CS118,Programming Fundamentals,3,F,0,1.63,1.63,0
+172,Fall,MT104,Linear Algebra,3,C-,1.67,1.63,1.63,0
+172,Spring,SS113,Pakistan Studies,3,B,3,2.26,2.2,0
+172,Spring,CS118,Programming Fundamentals,3,C-,1.67,2.26,2.2,0
+172,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.26,2.2,0
+172,Spring,CL118,Programming Fundamentals - Lab,1,D,1,2.26,2.2,0
+172,Spring,SS122,English Composition,3,B-,2.67,2.26,2.2,0
+172,Spring,EE227,Digital Logic Design,3,C,2,2.26,2.2,0
+172,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+172,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+172,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+172,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+172,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+172,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+172,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+172,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+172,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+172,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+172,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+173,Fall,SS101,English Language,3,B-,2.67,0.94,0.94,3
+173,Fall,MT119,Calculus and Analytical Geometry,3,D,1,0.94,0.94,3
+173,Fall,CS118,Programming Fundamentals,3,F,0,0.94,0.94,3
+173,Fall,EE182,Basic Electronics,3,F,0,0.94,0.94,3
+173,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.94,0.94,3
+173,Fall,MT104,Linear Algebra,3,D,1,0.94,0.94,3
+173,Fall,SL101,English Language Lab,1,C,2,0.94,0.94,3
+173,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+173,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+173,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+173,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+173,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+173,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+173,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+173,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+173,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+173,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+173,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+173,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+173,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+173,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+173,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+174,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.59,2.59,0
+174,Fall,CS118,Programming Fundamentals,3,F,0,2.59,2.59,0
+174,Fall,SS101,English Language,3,B+,3.33,2.59,2.59,0
+174,Fall,EE182,Basic Electronics,3,B+,3.33,2.59,2.59,0
+174,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.59,2.59,0
+174,Fall,MT104,Linear Algebra,3,A-,3.67,2.59,2.59,0
+174,Fall,SL101,English Language Lab,1,B,3,2.59,2.59,0
+174,Fall,CS201,Data Structures,3,B,3,2.98,3.27,0
+174,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,3.39,3.39,0
+174,Spring,EE227,Digital Logic Design,3,A+,4,3.39,3.39,0
+174,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,3.39,3.39,0
+174,Spring,EL227,Digital Logic Design - Lab,1,B,3,3.39,3.39,0
+174,Spring,CS118,Programming Fundamentals,3,B+,3.33,3.39,3.39,0
+174,Spring,SS122,English Composition,3,B+,3.33,3.39,3.39,0
+174,Spring,CL118,Programming Fundamentals - Lab,1,A-,3.67,3.39,3.39,0
+174,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+174,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+174,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+174,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+174,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+174,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+174,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+174,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+174,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+175,Fall,CL118,Programming Fundamentals - Lab,1,A-,3.67,3.31,3.31,0
+175,Fall,EE182,Basic Electronics,3,B-,2.67,3.31,3.31,0
+175,Fall,CS118,Programming Fundamentals,3,C+,2.33,3.31,3.31,0
+175,Fall,SS101,English Language,3,A,4,3.31,3.31,0
+175,Fall,MT119,Calculus and Analytical Geometry,3,A,4,3.31,3.31,0
+175,Fall,SL101,English Language Lab,1,A-,3.67,3.31,3.31,0
+175,Fall,MT104,Linear Algebra,3,B+,3.33,3.31,3.31,0
+175,Fall,CS201,Data Structures,3,B,3,2.11,2.67,0
+175,Spring,CL217,Computer Programming Lab,1,D+,1.33,1.27,2.29,0
+175,Spring,SS111,Islamic and Religious Studies,3,C,2,1.27,2.29,0
+175,Spring,EE227,Digital Logic Design,3,D,1,1.27,2.29,0
+175,Spring,EL227,Digital Logic Design - Lab,1,D+,1.33,1.27,2.29,0
+175,Spring,SS122,English Composition,3,C+,2.33,1.27,2.29,0
+175,Spring,CS217,Computer Programming,3,F,0,1.27,2.29,0
+175,Spring,MT224,Differential Equations (Cal II),3,D,1,1.27,2.29,0
+175,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+175,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+175,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+175,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+175,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+175,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+175,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+176,Fall,SL101,English Language Lab,1,FA,0,3.12,3.12,0
+176,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.12,3.12,0
+176,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,3.12,3.12,0
+176,Fall,SS101,English Language,3,C,2,3.12,3.12,0
+176,Fall,MT104,Linear Algebra,3,A,4,3.12,3.12,0
+176,Fall,EE182,Basic Electronics,3,A-,3.67,3.12,3.12,0
+176,Fall,CS118,Programming Fundamentals,3,B,3,3.12,3.12,0
+176,Fall,CS201,Data Structures,3,B,3,2.05,2.72,0
+176,Spring,EE227,Digital Logic Design,3,C,2,1.86,2.55,0
+176,Spring,CL217,Computer Programming Lab,1,F,0,1.86,2.55,0
+176,Spring,CS217,Computer Programming,3,D,1,1.86,2.55,0
+176,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,1.86,2.55,0
+176,Spring,EL227,Digital Logic Design - Lab,1,C,2,1.86,2.55,0
+176,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,1.86,2.55,0
+176,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+176,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+176,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+176,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+176,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+176,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+176,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+176,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+177,Fall,MT104,Linear Algebra,3,B-,2.67,3.02,3.02,0
+177,Fall,CS118,Programming Fundamentals,3,C+,2.33,3.02,3.02,0
+177,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,3.02,3.02,0
+177,Fall,SS101,English Language,3,A-,3.67,3.02,3.02,0
+177,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,3.02,3.02,0
+177,Fall,SL101,English Language Lab,1,A,4,3.02,3.02,0
+177,Fall,EE182,Basic Electronics,3,B+,3.33,3.02,3.02,0
+177,Fall,CS201,Data Structures,3,C+,2.33,2,2.68,0
+177,Spring,SS113,Pakistan Studies,3,B-,2.67,2.98,3,0
+177,Spring,SS122,English Composition,3,A-,3.67,2.98,3,0
+177,Spring,CS217,Computer Programming,3,C+,2.33,2.98,3,0
+177,Spring,EE227,Digital Logic Design,3,B+,3.33,2.98,3,0
+177,Spring,CL217,Computer Programming Lab,1,A,4,2.98,3,0
+177,Spring,MT224,Differential Equations (Cal II),3,B-,2.67,2.98,3,0
+177,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.98,3,0
+177,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+177,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+177,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+177,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+177,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+177,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+177,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+178,Fall,CS118,Programming Fundamentals,3,F,0,0.53,0.53,0
+178,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.53,0.53,0
+178,Fall,SS101,English Language,3,B,3,0.53,0.53,0
+178,Fall,SL101,English Language Lab,1,F,0,0.53,0.53,0
+178,Fall,EE182,Basic Electronics,3,F,0,0.53,0.53,0
+178,Fall,MT104,Linear Algebra,3,F,0,0.53,0.53,0
+178,Fall,MT119,Calculus and Analytical Geometry,3,FA,0,0.53,0.53,0
+178,Spring,CL118,Programming Fundamentals - Lab,1,B+,3.33,0.95,1.25,0
+178,Spring,MT104,Linear Algebra,3,F,0,0.95,1.25,0
+178,Spring,MT119,Calculus and Analytical Geometry,3,F,0,0.95,1.25,0
+178,Spring,EE182,Basic Electronics,3,D+,1.33,0.95,1.25,0
+178,Spring,CS118,Programming Fundamentals,3,C-,1.67,0.95,1.25,0
+178,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+178,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+178,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+178,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+178,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+178,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+178,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+178,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+178,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+178,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+178,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+178,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+178,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+178,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+178,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+179,Fall,MT104,Linear Algebra,3,C,2,2.31,2.31,0
+179,Fall,SL101,English Language Lab,1,B,3,2.31,2.31,0
+179,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.31,2.31,0
+179,Fall,SS101,English Language,3,B,3,2.31,2.31,0
+179,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.31,2.31,0
+179,Fall,EE182,Basic Electronics,3,C+,2.33,2.31,2.31,0
+179,Fall,CS118,Programming Fundamentals,3,D+,1.33,2.31,2.31,0
+179,Fall,CS201,Data Structures,3,F,0,2.17,2.38,0
+179,Spring,CS217,Computer Programming,3,F,0,2.08,2.2,0
+179,Spring,SS122,English Composition,3,B-,2.67,2.08,2.2,0
+179,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,2.08,2.2,0
+179,Spring,EE227,Digital Logic Design,3,B,3,2.08,2.2,0
+179,Spring,SS111,Islamic and Religious Studies,3,B,3,2.08,2.2,0
+179,Spring,CL217,Computer Programming Lab,1,F,0,2.08,2.2,0
+179,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.08,2.2,0
+179,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+179,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+179,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+179,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+179,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+179,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+179,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+180,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.47,2.47,0
+180,Fall,SL101,English Language Lab,1,A-,3.67,2.47,2.47,0
+180,Fall,SS101,English Language,3,A,4,2.47,2.47,0
+180,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.47,2.47,0
+180,Fall,MT104,Linear Algebra,3,C,2,2.47,2.47,0
+180,Fall,EE182,Basic Electronics,3,C-,1.67,2.47,2.47,0
+180,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.47,2.47,0
+180,Fall,CS201,Data Structures,3,C-,1.67,2.61,2.4,0
+180,Spring,EE227,Digital Logic Design,3,D,1,2.14,2.3,0
+180,Spring,CS217,Computer Programming,3,D,1,2.14,2.3,0
+180,Spring,SS113,Pakistan Studies,3,A-,3.67,2.14,2.3,0
+180,Spring,CL217,Computer Programming Lab,1,D+,1.33,2.14,2.3,0
+180,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.14,2.3,0
+180,Spring,SS122,English Composition,3,A,4,2.14,2.3,0
+180,Spring,EL227,Digital Logic Design - Lab,1,D,1,2.14,2.3,0
+180,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+180,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+180,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+180,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+180,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+180,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+180,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+181,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.61,1.61,1
+181,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.61,1.61,1
+181,Fall,EE182,Basic Electronics,3,D+,1.33,1.61,1.61,1
+181,Fall,SL101,English Language Lab,1,B+,3.33,1.61,1.61,1
+181,Fall,CS118,Programming Fundamentals,3,D,1,1.61,1.61,1
+181,Fall,MT104,Linear Algebra,3,D,1,1.61,1.61,1
+181,Fall,SS101,English Language,3,B,3,1.61,1.61,1
+181,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+181,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+181,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+181,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+181,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+181,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+181,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+181,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+181,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+181,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+181,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+181,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+181,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+181,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+181,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+182,Fall,SS101,English Language,3,A-,3.67,1.08,1.08,0
+182,Fall,EE182,Basic Electronics,3,F,0,1.08,1.08,0
+182,Fall,SL101,English Language Lab,1,B+,3.33,1.08,1.08,0
+182,Fall,CS118,Programming Fundamentals,3,F,0,1.08,1.08,0
+182,Fall,MT119,Calculus and Analytical Geometry,3,F,0,1.08,1.08,0
+182,Fall,MT104,Linear Algebra,3,D,1,1.08,1.08,0
+182,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.08,1.08,0
+182,Spring,EE227,Digital Logic Design,3,FA,0,0.98,1.42,0
+182,Spring,CS118,Programming Fundamentals,3,D,1,0.98,1.42,0
+182,Spring,CL118,Programming Fundamentals - Lab,1,D+,1.33,0.98,1.42,0
+182,Spring,SS122,English Composition,3,A-,3.67,0.98,1.42,0
+182,Spring,EE182,Basic Electronics,3,FA,0,0.98,1.42,0
+182,Spring,EL227,Digital Logic Design - Lab,1,D+,1.33,0.98,1.42,0
+182,Spring,MT119,Calculus and Analytical Geometry,3,F,0,0.98,1.42,0
+182,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+182,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+182,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+182,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+182,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+182,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+182,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+182,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+182,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+182,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+182,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+182,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+183,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.22,1.22,3
+183,Fall,SS101,English Language,3,C-,1.67,1.22,1.22,3
+183,Fall,SL101,English Language Lab,1,C-,1.67,1.22,1.22,3
+183,Fall,EE182,Basic Electronics,3,C-,1.67,1.22,1.22,3
+183,Fall,MT104,Linear Algebra,3,D+,1.33,1.22,1.22,3
+183,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.22,1.22,3
+183,Fall,CS118,Programming Fundamentals,3,F,0,1.22,1.22,3
+183,Spring,EE227,Digital Logic Design,3,D,1,1.65,1.58,3
+183,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,1.65,1.58,3
+183,Spring,SS122,English Composition,3,C-,1.67,1.65,1.58,3
+183,Spring,CS118,Programming Fundamentals,3,C-,1.67,1.65,1.58,3
+183,Spring,SS111,Islamic and Religious Studies,3,C,2,1.65,1.58,3
+183,Spring,EE182,Basic Electronics,3,C-,1.67,1.65,1.58,3
+183,Spring,CL118,Programming Fundamentals - Lab,1,C+,2.33,1.65,1.58,3
+183,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+183,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+183,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+183,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+183,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+183,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+183,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+183,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+183,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+183,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+183,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+184,Fall,SS101,English Language,3,C,2,1.37,1.37,2
+184,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,1.37,1.37,2
+184,Fall,EE182,Basic Electronics,3,C-,1.67,1.37,1.37,2
+184,Fall,SL101,English Language Lab,1,D,1,1.37,1.37,2
+184,Fall,MT119,Calculus and Analytical Geometry,3,F,0,1.37,1.37,2
+184,Fall,MT104,Linear Algebra,3,D,1,1.37,1.37,2
+184,Fall,CS118,Programming Fundamentals,3,C-,1.67,1.37,1.37,2
+184,Spring,MT119,Calculus and Analytical Geometry,3,D,1,0.82,1.23,2
+184,Spring,CL217,Computer Programming Lab,1,F,0,0.82,1.23,2
+184,Spring,MT104,Linear Algebra,3,C,2,0.82,1.23,2
+184,Spring,EL227,Digital Logic Design - Lab,1,D,1,0.82,1.23,2
+184,Spring,CS217,Computer Programming,3,F,0,0.82,1.23,2
+184,Spring,EE227,Digital Logic Design,3,F,0,0.82,1.23,2
+184,Spring,SS122,English Composition,3,D+,1.33,0.82,1.23,2
+184,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+184,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+184,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+184,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+184,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+184,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+184,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+184,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+184,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+184,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+185,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.45,1.45,0
+185,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.45,1.45,0
+185,Fall,EE182,Basic Electronics,3,C,2,1.45,1.45,0
+185,Fall,SS101,English Language,3,B-,2.67,1.45,1.45,0
+185,Fall,SL101,English Language Lab,1,B-,2.67,1.45,1.45,0
+185,Fall,MT104,Linear Algebra,3,D+,1.33,1.45,1.45,0
+185,Fall,CS118,Programming Fundamentals,3,F,0,1.45,1.45,0
+185,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,1.8,1.9,0
+185,Spring,SS122,English Composition,3,D+,1.33,1.8,1.9,0
+185,Spring,EE227,Digital Logic Design,3,C+,2.33,1.8,1.9,0
+185,Spring,MT119,Calculus and Analytical Geometry,3,C+,2.33,1.8,1.9,0
+185,Spring,CS118,Programming Fundamentals,3,F,0,1.8,1.9,0
+185,Spring,EL227,Digital Logic Design - Lab,1,A-,3.67,1.8,1.9,0
+185,Spring,CL118,Programming Fundamentals - Lab,1,D,1,1.8,1.9,0
+185,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+185,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+185,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+185,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+185,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+185,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+185,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+185,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+185,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+185,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+185,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+186,Fall,MT119,Calculus and Analytical Geometry,3,A,4,3.71,3.71,0
+186,Fall,EE182,Basic Electronics,3,B-,2.67,3.71,3.71,0
+186,Fall,SS101,English Language,3,A,4,3.71,3.71,0
+186,Fall,MT104,Linear Algebra,3,A-,3.67,3.71,3.71,0
+186,Fall,SL101,English Language Lab,1,A,4,3.71,3.71,0
+186,Fall,CS118,Programming Fundamentals,3,A+,4,3.71,3.71,0
+186,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,3.71,3.71,0
+186,Fall,CS201,Data Structures,3,A-,3.67,2.69,2.98,0
+186,Spring,EE227,Digital Logic Design,3,D+,1.33,2.53,3.12,0
+186,Spring,CS217,Computer Programming,3,A-,3.67,2.53,3.12,0
+186,Spring,MT224,Differential Equations (Cal II),3,D,1,2.53,3.12,0
+186,Spring,SS122,English Composition,3,B+,3.33,2.53,3.12,0
+186,Spring,CL217,Computer Programming Lab,1,B+,3.33,2.53,3.12,0
+186,Spring,SS113,Pakistan Studies,3,B,3,2.53,3.12,0
+186,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.53,3.12,0
+186,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+186,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+186,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+186,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+186,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+186,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+186,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+187,Fall,SS101,English Language,3,B,3,2.43,2.43,0
+187,Fall,CS118,Programming Fundamentals,3,D,1,2.43,2.43,0
+187,Fall,SL101,English Language Lab,1,B+,3.33,2.43,2.43,0
+187,Fall,MT104,Linear Algebra,3,B,3,2.43,2.43,0
+187,Fall,EE182,Basic Electronics,3,C+,2.33,2.43,2.43,0
+187,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.43,2.43,0
+187,Fall,CL118,Programming Fundamentals - Lab,1,C,2,2.43,2.43,0
+187,Fall,CS201,Data Structures,3,B-,2.67,2.61,2.59,0
+187,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,2.16,2.29,0
+187,Spring,SS122,English Composition,3,D+,1.33,2.16,2.29,0
+187,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,2.16,2.29,0
+187,Spring,CL217,Computer Programming Lab,1,D+,1.33,2.16,2.29,0
+187,Spring,SS113,Pakistan Studies,3,B+,3.33,2.16,2.29,0
+187,Spring,CS217,Computer Programming,3,F,0,2.16,2.29,0
+187,Spring,EE227,Digital Logic Design,3,C+,2.33,2.16,2.29,0
+187,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+187,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+187,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+187,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+187,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+187,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+187,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+188,Fall,CS118,Programming Fundamentals,3,C,2,2.69,2.69,0
+188,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,2.69,2.69,0
+188,Fall,EE182,Basic Electronics,3,C+,2.33,2.69,2.69,0
+188,Fall,MT104,Linear Algebra,3,B-,2.67,2.69,2.69,0
+188,Fall,SL101,English Language Lab,1,B+,3.33,2.69,2.69,0
+188,Fall,SS101,English Language,3,B+,3.33,2.69,2.69,0
+188,Fall,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.69,2.69,0
+188,Fall,CS201,Data Structures,3,C+,2.33,2.21,2.38,0
+188,Spring,EE227,Digital Logic Design,3,C,2,1.82,2.26,0
+188,Spring,CL217,Computer Programming Lab,1,B+,3.33,1.82,2.26,0
+188,Spring,SS113,Pakistan Studies,3,D,1,1.82,2.26,0
+188,Spring,SS122,English Composition,3,B-,2.67,1.82,2.26,0
+188,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,1.82,2.26,0
+188,Spring,MT224,Differential Equations (Cal II),3,D,1,1.82,2.26,0
+188,Spring,CS217,Computer Programming,3,C-,1.67,1.82,2.26,0
+188,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+188,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+188,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+188,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+188,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+188,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+188,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+189,Fall,CL118,Programming Fundamentals - Lab,1,B+,3.33,3.27,3.27,0
+189,Fall,EE182,Basic Electronics,3,D+,1.33,3.27,3.27,0
+189,Fall,MT104,Linear Algebra,3,A,4,3.27,3.27,0
+189,Fall,CS118,Programming Fundamentals,3,B+,3.33,3.27,3.27,0
+189,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.27,3.27,0
+189,Fall,SL101,English Language Lab,1,B+,3.33,3.27,3.27,0
+189,Fall,SS101,English Language,3,A,4,3.27,3.27,0
+189,Fall,CS201,Data Structures,3,B+,3.33,3.27,3.31,0
+189,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+189,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+189,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+189,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+189,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+189,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+189,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+189,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+189,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+189,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+189,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+189,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+189,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+189,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+190,Fall,EE182,Basic Electronics,3,F,0,0.45,0.45,3
+190,Fall,MT104,Linear Algebra,3,F,0,0.45,0.45,3
+190,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.45,0.45,3
+190,Fall,SS101,English Language,3,C,2,0.45,0.45,3
+190,Fall,SL101,English Language Lab,1,C-,1.67,0.45,0.45,3
+190,Fall,MT119,Calculus and Analytical Geometry,3,F,0,0.45,0.45,3
+190,Fall,CS118,Programming Fundamentals,3,F,0,0.45,0.45,3
+190,Spring,EE182,Basic Electronics,3,D,1,0.92,1.16,3
+190,Spring,CL118,Programming Fundamentals - Lab,1,F,0,0.92,1.16,3
+190,Spring,MT119,Calculus and Analytical Geometry,3,D+,1.33,0.92,1.16,3
+190,Spring,MT104,Linear Algebra,3,C-,1.67,0.92,1.16,3
+190,Spring,CS118,Programming Fundamentals,3,F,0,0.92,1.16,3
+190,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+190,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+190,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+190,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+190,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+190,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+190,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+190,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+190,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+190,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+190,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+190,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+190,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+190,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+190,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+191,Fall,SS101,English Language,3,B+,3.33,2.25,2.25,0
+191,Fall,SL101,English Language Lab,1,B,3,2.25,2.25,0
+191,Fall,MT104,Linear Algebra,3,D+,1.33,2.25,2.25,0
+191,Fall,EE182,Basic Electronics,3,C,2,2.25,2.25,0
+191,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.25,2.25,0
+191,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.25,2.25,0
+191,Fall,CS118,Programming Fundamentals,3,D+,1.33,2.25,2.25,0
+191,Spring,CL217,Computer Programming Lab,1,F,0,1.74,2,0
+191,Spring,EE227,Digital Logic Design,3,C,2,1.74,2,0
+191,Spring,SS122,English Composition,3,B-,2.67,1.74,2,0
+191,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,1.74,2,0
+191,Spring,CS217,Computer Programming,3,F,0,1.74,2,0
+191,Spring,SS111,Islamic and Religious Studies,3,B+,3.33,1.74,2,0
+191,Spring,MT224,Differential Equations (Cal II),3,D+,1.33,1.74,2,0
+191,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+191,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+191,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+191,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+191,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+191,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+191,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+191,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+192,Fall,MT104,Linear Algebra,3,C+,2.33,3.29,3.29,0
+192,Fall,SL101,English Language Lab,1,A+,4,3.29,3.29,0
+192,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,3.29,3.29,0
+192,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,3.29,3.29,0
+192,Fall,EE182,Basic Electronics,3,B+,3.33,3.29,3.29,0
+192,Fall,CS118,Programming Fundamentals,3,A+,4,3.29,3.29,0
+192,Fall,SS101,English Language,3,A,4,3.29,3.29,0
+192,Fall,CS201,Data Structures,3,A,4,3.52,3.21,0
+192,Spring,MT224,Differential Equations (Cal II),3,D,1,2.85,3.07,0
+192,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,2.85,3.07,0
+192,Spring,CS217,Computer Programming,3,A-,3.67,2.85,3.07,0
+192,Spring,CL217,Computer Programming Lab,1,A-,3.67,2.85,3.07,0
+192,Spring,SS122,English Composition,3,A,4,2.85,3.07,0
+192,Spring,EE227,Digital Logic Design,3,B-,2.67,2.85,3.07,0
+192,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.85,3.07,0
+192,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+192,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+192,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+192,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+192,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+192,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+192,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+193,Fall,MT119,Calculus and Analytical Geometry,3,D,1,2.18,2.18,0
+193,Fall,EE182,Basic Electronics,3,C+,2.33,2.18,2.18,0
+193,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.18,2.18,0
+193,Fall,MT104,Linear Algebra,3,D+,1.33,2.18,2.18,0
+193,Fall,SS101,English Language,3,A,4,2.18,2.18,0
+193,Fall,SL101,English Language Lab,1,A-,3.67,2.18,2.18,0
+193,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.18,2.18,0
+193,Fall,CS201,Data Structures,3,W,0,3.55,2.55,0
+193,Spring,EL227,Digital Logic Design - Lab,1,B,3,2.1,2.14,0
+193,Spring,MT224,Differential Equations (Cal II),3,F,0,2.1,2.14,0
+193,Spring,SS122,English Composition,3,A+,4,2.1,2.14,0
+193,Spring,CS217,Computer Programming,3,C,2,2.1,2.14,0
+193,Spring,EE227,Digital Logic Design,3,D,1,2.1,2.14,0
+193,Spring,CL217,Computer Programming Lab,1,B-,2.67,2.1,2.14,0
+193,Spring,SS111,Islamic and Religious Studies,3,B,3,2.1,2.14,0
+193,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+193,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+193,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+193,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+193,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+193,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+193,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+194,Fall,MT104,Linear Algebra,3,D+,1.33,1.53,1.53,0
+194,Fall,EE182,Basic Electronics,3,F,0,1.53,1.53,0
+194,Fall,SL101,English Language Lab,1,B,3,1.53,1.53,0
+194,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.53,1.53,0
+194,Fall,MT119,Calculus and Analytical Geometry,3,D,1,1.53,1.53,0
+194,Fall,CS118,Programming Fundamentals,3,C-,1.67,1.53,1.53,0
+194,Fall,SS101,English Language,3,A-,3.67,1.53,1.53,0
+194,Spring,SS113,Pakistan Studies,3,B,3,2.11,2.25,0
+194,Spring,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.11,2.25,0
+194,Spring,EE182,Basic Electronics,3,D,1,2.11,2.25,0
+194,Spring,SS122,English Composition,3,B-,2.67,2.11,2.25,0
+194,Spring,CL118,Programming Fundamentals - Lab,1,C-,1.67,2.11,2.25,0
+194,Spring,CS118,Programming Fundamentals,3,C-,1.67,2.11,2.25,0
+194,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+194,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+194,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+194,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+194,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+194,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+194,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+194,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+194,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+194,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+194,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+194,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+194,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+195,Fall,EE182,Basic Electronics,3,B+,3.33,3.76,3.76,0
+195,Fall,SS101,English Language,3,A,4,3.76,3.76,0
+195,Fall,SL101,English Language Lab,1,B,3,3.76,3.76,0
+195,Fall,MT104,Linear Algebra,3,A+,4,3.76,3.76,0
+195,Fall,CS118,Programming Fundamentals,3,A+,4,3.76,3.76,0
+195,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.76,3.76,0
+195,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,3.76,3.76,0
+195,Fall,CS201,Data Structures,3,B+,3.33,3.27,3.25,0
+195,Spring,SS122,English Composition,3,B+,3.33,2.71,3.24,0
+195,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,2.71,3.24,0
+195,Spring,CS217,Computer Programming,3,B-,2.67,2.71,3.24,0
+195,Spring,EE227,Digital Logic Design,3,B+,3.33,2.71,3.24,0
+195,Spring,CL217,Computer Programming Lab,1,B+,3.33,2.71,3.24,0
+195,Spring,MT224,Differential Equations (Cal II),3,B-,2.67,2.71,3.24,0
+195,Spring,SS111,Islamic and Religious Studies,3,C-,1.67,2.71,3.24,0
+195,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+195,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+195,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+195,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+195,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+195,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+195,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+196,Fall,SL101,English Language Lab,1,A,4,2.51,2.51,0
+196,Fall,EE182,Basic Electronics,3,C-,1.67,2.51,2.51,0
+196,Fall,CL118,Programming Fundamentals - Lab,1,B-,2.67,2.51,2.51,0
+196,Fall,SS101,English Language,3,A-,3.67,2.51,2.51,0
+196,Fall,MT104,Linear Algebra,3,C,2,2.51,2.51,0
+196,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.51,2.51,0
+196,Fall,CS118,Programming Fundamentals,3,B-,2.67,2.51,2.51,0
+196,Spring,SS113,Pakistan Studies,3,W,0,0,2.51,0
+196,Spring,SS122,English Composition,3,W,0,0,2.51,0
+196,Spring,MT224,Differential Equations (Cal II),3,W,0,0,2.51,0
+196,Spring,CL217,Computer Programming Lab,1,W,0,0,2.51,0
+196,Spring,CS217,Computer Programming,3,W,0,0,2.51,0
+196,Spring,EL227,Digital Logic Design - Lab,1,W,0,0,2.51,0
+196,Spring,EE227,Digital Logic Design,3,W,0,0,2.51,0
+196,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+196,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+196,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+196,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+196,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+196,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+196,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+196,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+197,Fall,SL101,English Language Lab,1,F,0,0,0,1
+197,Fall,MT104,Linear Algebra,3,FA,0,0,0,1
+197,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0,0,1
+197,Fall,MT119,Calculus and Analytical Geometry,3,FA,0,0,0,1
+197,Fall,EE182,Basic Electronics,3,FA,0,0,0,1
+197,Fall,SS101,English Language,3,FA,0,0,0,1
+197,Fall,CS118,Programming Fundamentals,3,FA,0,0,0,1
+197,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+197,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+197,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+197,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+197,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+197,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+197,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+197,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+197,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+197,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+197,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+197,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+197,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+197,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+197,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+198,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1,1,0
+198,Fall,SS111,Islamic and Religious Studies,3,D+,1.33,1,1,0
+198,Fall,MT104,Linear Algebra,3,D,1,1,1,0
+198,Fall,CS118,Programming Fundamentals,3,F,0,1,1,0
+198,Fall,EE182,Basic Electronics,3,B,3,1,1,0
+198,Spring,EE227,Digital Logic Design,3,C+,2.33,1.86,1.75,0
+198,Spring,CL118,Programming Fundamentals - Lab,1,F,0,1.86,1.75,0
+198,Spring,CS118,Programming Fundamentals,3,F,0,1.86,1.75,0
+198,Spring,MT104,Linear Algebra,3,A-,3.67,1.86,1.75,0
+198,Spring,EL227,Digital Logic Design - Lab,1,D,1,1.86,1.75,0
+198,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,1.86,1.75,0
+198,Unknown,MT119,Calculus and Analytical Geometry,3,UK,-1,0,0,0
+198,Unknown,SS101,English Language,3,UK,-1,0,0,0
+198,Unknown,SL101,English Language Lab,1,UK,-1,0,0,0
+198,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+198,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+198,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+198,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+198,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+198,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+198,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+198,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+198,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+198,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+198,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+198,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+199,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.96,2.96,0
+199,Fall,SS101,English Language,3,A-,3.67,2.96,2.96,0
+199,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.96,2.96,0
+199,Fall,SL101,English Language Lab,1,B+,3.33,2.96,2.96,0
+199,Fall,EE182,Basic Electronics,3,B,3,2.96,2.96,0
+199,Fall,CS118,Programming Fundamentals,3,B-,2.67,2.96,2.96,0
+199,Fall,MT104,Linear Algebra,3,B-,2.67,2.96,2.96,0
+199,Fall,CS201,Data Structures,3,C+,2.33,2.1,2.67,0
+199,Spring,SS113,Pakistan Studies,3,C+,2.33,2.92,2.94,0
+199,Spring,SS122,English Composition,3,B,3,2.92,2.94,0
+199,Spring,EE227,Digital Logic Design,3,A-,3.67,2.92,2.94,0
+199,Spring,EL227,Digital Logic Design - Lab,1,A-,3.67,2.92,2.94,0
+199,Spring,MT224,Differential Equations (Cal II),3,B+,3.33,2.92,2.94,0
+199,Spring,CL217,Computer Programming Lab,1,B,3,2.92,2.94,0
+199,Spring,CS217,Computer Programming,3,C,2,2.92,2.94,0
+199,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+199,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+199,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+199,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+199,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+199,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+199,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+200,Fall,CS118,Programming Fundamentals,3,F,0,0.75,0.75,2
+200,Fall,EE182,Basic Electronics,3,F,0,0.75,0.75,2
+200,Fall,MT119,Calculus and Analytical Geometry,3,D,1,0.75,0.75,2
+200,Fall,MT104,Linear Algebra,3,C-,1.67,0.75,0.75,2
+200,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.75,0.75,2
+200,Fall,SL101,English Language Lab,1,C-,1.67,0.75,0.75,2
+200,Fall,SS101,English Language,3,D,1,0.75,0.75,2
+200,Spring,CL118,Programming Fundamentals - Lab,1,F,0,0.39,0.73,2
+200,Spring,MT119,Calculus and Analytical Geometry,3,C-,1.67,0.39,0.73,2
+200,Spring,CS118,Programming Fundamentals,3,F,0,0.39,0.73,2
+200,Spring,EE182,Basic Electronics,3,F,0,0.39,0.73,2
+200,Spring,SS122,English Composition,3,FA,0,0.39,0.73,2
+200,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+200,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+200,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+200,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+200,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+200,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+200,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+200,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+200,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+200,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+200,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+200,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+200,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+200,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+201,Fall,MT104,Linear Algebra,3,FA,0,0.53,0.53,2
+201,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.53,0.53,2
+201,Fall,SL101,English Language Lab,1,F,0,0.53,0.53,2
+201,Fall,MT119,Calculus and Analytical Geometry,3,F,0,0.53,0.53,2
+201,Fall,CS118,Programming Fundamentals,3,F,0,0.53,0.53,2
+201,Fall,EE182,Basic Electronics,3,FA,0,0.53,0.53,2
+201,Fall,SS101,English Language,3,B,3,0.53,0.53,2
+201,Spring,CS118,Programming Fundamentals,3,FA,0,0.44,0.8,2
+201,Spring,MT119,Calculus and Analytical Geometry,3,FA,0,0.44,0.8,2
+201,Spring,CL118,Programming Fundamentals - Lab,1,F,0,0.44,0.8,2
+201,Spring,EE182,Basic Electronics,3,F,0,0.44,0.8,2
+201,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,0.44,0.8,2
+201,Spring,MT104,Linear Algebra,3,F,0,0.44,0.8,2
+201,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+201,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+201,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+201,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+201,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+201,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+201,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+201,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+201,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+201,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+201,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+201,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+201,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+201,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+202,Fall,EE182,Basic Electronics,3,B-,2.67,2.04,2.04,1
+202,Fall,MT104,Linear Algebra,3,C,2,2.04,2.04,1
+202,Fall,SS101,English Language,3,C+,2.33,2.04,2.04,1
+202,Fall,CS118,Programming Fundamentals,3,D+,1.33,2.04,2.04,1
+202,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.04,2.04,1
+202,Fall,SL101,English Language Lab,1,B-,2.67,2.04,2.04,1
+202,Fall,CL118,Programming Fundamentals - Lab,1,D,1,2.04,2.04,1
+202,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+202,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+202,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+202,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+202,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+202,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+202,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+202,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+202,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+202,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+202,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+202,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+202,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+202,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+202,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+203,Fall,CS118,Programming Fundamentals,3,F,0,1.27,1.27,3
+203,Fall,MT104,Linear Algebra,3,F,0,1.27,1.27,3
+203,Fall,SL101,English Language Lab,1,A-,3.67,1.27,1.27,3
+203,Fall,SS101,English Language,3,A,4,1.27,1.27,3
+203,Fall,EE182,Basic Electronics,3,D,1,1.27,1.27,3
+203,Fall,MT119,Calculus and Analytical Geometry,3,D,1,1.27,1.27,3
+203,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.27,1.27,3
+203,Spring,CL118,Programming Fundamentals - Lab,1,F,0,1,1.43,3
+203,Spring,MT224,Differential Equations (Cal II),3,F,0,1,1.43,3
+203,Spring,EE227,Digital Logic Design,3,F,0,1,1.43,3
+203,Spring,SS122,English Composition,3,A,4,1,1.43,3
+203,Spring,CS118,Programming Fundamentals,3,F,0,1,1.43,3
+203,Spring,EL227,Digital Logic Design - Lab,1,F,0,1,1.43,3
+203,Spring,MT104,Linear Algebra,3,C-,1.67,1,1.43,3
+203,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+203,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+203,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+203,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+203,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+203,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+203,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+203,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+203,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+203,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+203,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+204,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.51,2.51,0
+204,Fall,MT104,Linear Algebra,3,D+,1.33,2.51,2.51,0
+204,Fall,SS101,English Language,3,A,4,2.51,2.51,0
+204,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.51,2.51,0
+204,Fall,CL118,Programming Fundamentals - Lab,1,A-,3.67,2.51,2.51,0
+204,Fall,EE182,Basic Electronics,3,C+,2.33,2.51,2.51,0
+204,Fall,SL101,English Language Lab,1,A,4,2.51,2.51,0
+204,Spring,SS122,English Composition,3,A,4,1.62,2.12,0
+204,Spring,EE227,Digital Logic Design,3,D,1,1.62,2.12,0
+204,Spring,SS111,Islamic and Religious Studies,3,C,2,1.62,2.12,0
+204,Spring,EL227,Digital Logic Design - Lab,1,F,0,1.62,2.12,0
+204,Spring,MT224,Differential Equations (Cal II),3,F,0,1.62,2.12,0
+204,Spring,CS217,Computer Programming,3,W,0,1.62,2.12,0
+204,Spring,CL217,Computer Programming Lab,1,W,0,1.62,2.12,0
+204,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+204,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+204,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+204,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+204,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+204,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+204,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+204,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+205,Fall,SL101,English Language Lab,1,F,0,0,0,1
+205,Fall,MT104,Linear Algebra,3,FA,0,0,0,1
+205,Fall,CS118,Programming Fundamentals,3,FA,0,0,0,1
+205,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0,0,1
+205,Fall,SS101,English Language,3,F,0,0,0,1
+205,Fall,MT119,Calculus and Analytical Geometry,3,FA,0,0,0,1
+205,Fall,EE182,Basic Electronics,3,FA,0,0,0,1
+205,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+205,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+205,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+205,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+205,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+205,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+205,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+205,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+205,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+205,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+205,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+205,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+205,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+205,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+205,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+206,Fall,MT104,Linear Algebra,3,C-,1.67,2.08,2.08,0
+206,Fall,CS118,Programming Fundamentals,3,F,0,2.08,2.08,0
+206,Fall,EE182,Basic Electronics,3,C+,2.33,2.08,2.08,0
+206,Fall,SS101,English Language,3,A-,3.67,2.08,2.08,0
+206,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.08,2.08,0
+206,Fall,SL101,English Language Lab,1,B+,3.33,2.08,2.08,0
+206,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.08,2.08,0
+206,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,1.88,2.24,0
+206,Spring,CL118,Programming Fundamentals - Lab,1,D+,1.33,1.88,2.24,0
+206,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,1.88,2.24,0
+206,Spring,EE227,Digital Logic Design,3,C+,2.33,1.88,2.24,0
+206,Spring,CS118,Programming Fundamentals,3,C,2,1.88,2.24,0
+206,Spring,SS122,English Composition,3,C,2,1.88,2.24,0
+206,Spring,MT224,Differential Equations (Cal II),3,D,1,1.88,2.24,0
+206,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+206,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+206,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+206,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+206,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+206,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+206,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+206,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+206,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+206,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+207,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+207,Fall,SS101,English Language,3,L1,0,0,0,1
+207,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+207,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+207,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+207,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+207,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+207,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+207,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+207,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+207,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+207,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+207,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+207,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+207,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+207,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+207,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+207,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+207,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+207,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+207,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+207,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+208,Fall,EE182,Basic Electronics,3,C,2,2.2,2.2,0
+208,Fall,SL101,English Language Lab,1,B,3,2.2,2.2,0
+208,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.2,2.2,0
+208,Fall,MT104,Linear Algebra,3,C-,1.67,2.2,2.2,0
+208,Fall,MT119,Calculus and Analytical Geometry,3,C+,2.33,2.2,2.2,0
+208,Fall,SS101,English Language,3,B,3,2.2,2.2,0
+208,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.2,2.2,0
+208,Fall,CS201,Data Structures,3,C+,2.33,2.65,2.4,0
+208,Spring,SS122,English Composition,3,C+,2.33,2.37,2.28,0
+208,Spring,CL217,Computer Programming Lab,1,B-,2.67,2.37,2.28,0
+208,Spring,SS111,Islamic and Religious Studies,3,B,3,2.37,2.28,0
+208,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,2.37,2.28,0
+208,Spring,MT224,Differential Equations (Cal II),3,B,3,2.37,2.28,0
+208,Spring,EE227,Digital Logic Design,3,C+,2.33,2.37,2.28,0
+208,Spring,CS217,Computer Programming,3,D+,1.33,2.37,2.28,0
+208,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+208,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+208,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+208,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+208,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+208,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+208,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+209,Fall,CS118,Programming Fundamentals,3,F,0,2.29,2.29,0
+209,Fall,SS101,English Language,3,B+,3.33,2.29,2.29,0
+209,Fall,MT104,Linear Algebra,3,B+,3.33,2.29,2.29,0
+209,Fall,EE182,Basic Electronics,3,C,2,2.29,2.29,0
+209,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.29,2.29,0
+209,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.29,2.29,0
+209,Fall,SL101,English Language Lab,1,B,3,2.29,2.29,0
+209,Spring,SS122,English Composition,3,D+,1.33,1.53,2.17,0
+209,Spring,CL118,Programming Fundamentals - Lab,1,C-,1.67,1.53,2.17,0
+209,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,1.53,2.17,0
+209,Spring,EE227,Digital Logic Design,3,C,2,1.53,2.17,0
+209,Spring,SS113,Pakistan Studies,3,C-,1.67,1.53,2.17,0
+209,Spring,CS118,Programming Fundamentals,3,F,0,1.53,2.17,0
+209,Spring,MT224,Differential Equations (Cal II),3,C+,2.33,1.53,2.17,0
+209,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+209,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+209,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+209,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+209,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+209,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+209,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+209,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+209,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+209,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+210,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.76,2.76,0
+210,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.76,2.76,0
+210,Fall,EE182,Basic Electronics,3,B,3,2.76,2.76,0
+210,Fall,MT104,Linear Algebra,3,B+,3.33,2.76,2.76,0
+210,Fall,SL101,English Language Lab,1,B,3,2.76,2.76,0
+210,Fall,SS101,English Language,3,C-,1.67,2.76,2.76,0
+210,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.76,2.76,0
+210,Fall,CS201,Data Structures,3,A-,3.67,2.48,2.62,0
+210,Spring,CL217,Computer Programming Lab,1,C,2,2.61,2.69,0
+210,Spring,SS111,Islamic and Religious Studies,3,B,3,2.61,2.69,0
+210,Spring,SS122,English Composition,3,D,1,2.61,2.69,0
+210,Spring,MT224,Differential Equations (Cal II),3,A,4,2.61,2.69,0
+210,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,2.61,2.69,0
+210,Spring,EE227,Digital Logic Design,3,C+,2.33,2.61,2.69,0
+210,Spring,CS217,Computer Programming,3,B-,2.67,2.61,2.69,0
+210,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+210,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+210,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+210,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+210,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+210,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+210,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+211,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.59,2.59,0
+211,Fall,EE182,Basic Electronics,3,B-,2.67,2.59,2.59,0
+211,Fall,CS118,Programming Fundamentals,3,C,2,2.59,2.59,0
+211,Fall,CL118,Programming Fundamentals - Lab,1,B-,2.67,2.59,2.59,0
+211,Fall,SS101,English Language,3,B,3,2.59,2.59,0
+211,Fall,MT104,Linear Algebra,3,B,3,2.59,2.59,0
+211,Fall,SL101,English Language Lab,1,B+,3.33,2.59,2.59,0
+211,Fall,CS201,Data Structures,3,C+,2.33,2.25,2.71,0
+211,Spring,SS122,English Composition,3,D+,1.33,2.53,2.56,0
+211,Spring,EE227,Digital Logic Design,3,A-,3.67,2.53,2.56,0
+211,Spring,CL217,Computer Programming Lab,1,B+,3.33,2.53,2.56,0
+211,Spring,MT224,Differential Equations (Cal II),3,B,3,2.53,2.56,0
+211,Spring,CS217,Computer Programming,3,F,0,2.53,2.56,0
+211,Spring,EL227,Digital Logic Design - Lab,1,A-,3.67,2.53,2.56,0
+211,Spring,SS111,Islamic and Religious Studies,3,A,4,2.53,2.56,0
+211,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+211,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+211,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+211,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+211,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+211,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+211,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+212,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+212,Fall,SS101,English Language,3,L1,0,0,0,1
+212,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+212,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+212,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+212,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+212,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+212,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+212,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+212,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+212,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+212,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+212,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+212,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+212,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+212,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+212,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+212,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+212,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+212,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+212,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+212,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+213,Fall,MT104,Linear Algebra,3,A-,3.67,3.45,3.45,0
+213,Fall,MT119,Calculus and Analytical Geometry,3,B,3,3.45,3.45,0
+213,Fall,EE182,Basic Electronics,3,A-,3.67,3.45,3.45,0
+213,Fall,SS101,English Language,3,B+,3.33,3.45,3.45,0
+213,Fall,SL101,English Language Lab,1,A-,3.67,3.45,3.45,0
+213,Fall,CS118,Programming Fundamentals,3,B+,3.33,3.45,3.45,0
+213,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,3.45,3.45,0
+213,Fall,CS201,Data Structures,3,A,4,3.19,3.33,0
+213,Spring,SS111,Islamic and Religious Studies,3,B+,3.33,3.35,3.4,0
+213,Spring,CS217,Computer Programming,3,A-,3.67,3.35,3.4,0
+213,Spring,CL217,Computer Programming Lab,1,A,4,3.35,3.4,0
+213,Spring,SS122,English Composition,3,C,2,3.35,3.4,0
+213,Spring,EL227,Digital Logic Design - Lab,1,A+,4,3.35,3.4,0
+213,Spring,EE227,Digital Logic Design,3,A,4,3.35,3.4,0
+213,Spring,MT224,Differential Equations (Cal II),3,B+,3.33,3.35,3.4,0
+213,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+213,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+213,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+213,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+213,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+213,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+213,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+214,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+214,Fall,SS101,English Language,3,L1,0,0,0,1
+214,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+214,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+214,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+214,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+214,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+214,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+214,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+214,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+214,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+214,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+214,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+214,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+214,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+214,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+214,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+214,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+214,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+214,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+214,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+214,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+215,Fall,MT104,Linear Algebra,3,B,3,2.53,2.53,0
+215,Fall,EE182,Basic Electronics,3,B+,3.33,2.53,2.53,0
+215,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.53,2.53,0
+215,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,2.53,2.53,0
+215,Fall,SL101,English Language Lab,1,A-,3.67,2.53,2.53,0
+215,Fall,SS101,English Language,3,A-,3.67,2.53,2.53,0
+215,Fall,CS118,Programming Fundamentals,3,D,1,2.53,2.53,0
+215,Fall,CS201,Data Structures,3,F,0,1.73,2.48,0
+215,Spring,SS122,English Composition,3,B+,3.33,2.25,2.39,0
+215,Spring,SS113,Pakistan Studies,3,A-,3.67,2.25,2.39,0
+215,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.25,2.39,0
+215,Spring,CS217,Computer Programming,3,F,0,2.25,2.39,0
+215,Spring,CL217,Computer Programming Lab,1,F,0,2.25,2.39,0
+215,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.25,2.39,0
+215,Spring,EE227,Digital Logic Design,3,B+,3.33,2.25,2.39,0
+215,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+215,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+215,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+215,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+215,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+215,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+215,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+216,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.18,1.18,2
+216,Fall,MT104,Linear Algebra,3,F,0,1.18,1.18,2
+216,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.18,1.18,2
+216,Fall,SL101,English Language Lab,1,A,4,1.18,1.18,2
+216,Fall,SS101,English Language,3,A-,3.67,1.18,1.18,2
+216,Fall,EE182,Basic Electronics,3,F,0,1.18,1.18,2
+216,Fall,CS118,Programming Fundamentals,3,F,0,1.18,1.18,2
+216,Spring,MT104,Linear Algebra,3,D+,1.33,1.5,1.87,2
+216,Spring,CL118,Programming Fundamentals - Lab,1,D,1,1.5,1.87,2
+216,Spring,EE182,Basic Electronics,3,D,1,1.5,1.87,2
+216,Spring,MT224,Differential Equations (Cal II),3,F,0,1.5,1.87,2
+216,Spring,SS122,English Composition,3,A,4,1.5,1.87,2
+216,Spring,CS118,Programming Fundamentals,3,D+,1.33,1.5,1.87,2
+216,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+216,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+216,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+216,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+216,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+216,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+216,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+216,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+216,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+216,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+216,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+216,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+216,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+217,Fall,SS101,English Language,3,A-,3.67,2.51,2.51,0
+217,Fall,CL118,Programming Fundamentals - Lab,1,A+,4,2.51,2.51,0
+217,Fall,CS118,Programming Fundamentals,3,A-,3.67,2.51,2.51,0
+217,Fall,MT104,Linear Algebra,3,C-,1.67,2.51,2.51,0
+217,Fall,SL101,English Language Lab,1,A-,3.67,2.51,2.51,0
+217,Fall,MT119,Calculus and Analytical Geometry,3,D,1,2.51,2.51,0
+217,Fall,EE182,Basic Electronics,3,C-,1.67,2.51,2.51,0
+217,Spring,CS217,Computer Programming,3,B+,3.33,3.14,3,0
+217,Spring,EE227,Digital Logic Design,3,B,3,3.14,3,0
+217,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,3.14,3,0
+217,Spring,SS122,English Composition,3,A-,3.67,3.14,3,0
+217,Spring,SS113,Pakistan Studies,3,B,3,3.14,3,0
+217,Spring,CL217,Computer Programming Lab,1,A,4,3.14,3,0
+217,Spring,MT119,Calculus and Analytical Geometry,3,C+,2.33,3.14,3,0
+217,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+217,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+217,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+217,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+217,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+217,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+217,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+217,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+217,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+218,Fall,EE182,Basic Electronics,3,D+,1.33,1.71,1.71,0
+218,Fall,MT119,Calculus and Analytical Geometry,3,D,1,1.71,1.71,0
+218,Fall,CL118,Programming Fundamentals - Lab,1,A-,3.67,1.71,1.71,0
+218,Fall,MT104,Linear Algebra,3,F,0,1.71,1.71,0
+218,Fall,CS118,Programming Fundamentals,3,C-,1.67,1.71,1.71,0
+218,Fall,SS101,English Language,3,B+,3.33,1.71,1.71,0
+218,Fall,SL101,English Language Lab,1,B+,3.33,1.71,1.71,0
+218,Fall,CS201,Data Structures,3,W,0,1.59,1.95,0
+218,Spring,SS122,English Composition,3,D,1,2.23,2.14,0
+218,Spring,MT104,Linear Algebra,3,A-,3.67,2.23,2.14,0
+218,Spring,CL217,Computer Programming Lab,1,D+,1.33,2.23,2.14,0
+218,Spring,CS217,Computer Programming,3,C+,2.33,2.23,2.14,0
+218,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+218,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+218,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+218,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+218,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+218,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+218,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+218,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+218,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+218,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+218,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+219,Fall,MT104,Linear Algebra,3,L1,0,0,0,1
+219,Fall,CL118,Programming Fundamentals - Lab,1,L1,0,0,0,1
+219,Fall,EE182,Basic Electronics,3,L1,0,0,0,1
+219,Fall,MT119,Calculus and Analytical Geometry,3,L1,0,0,0,1
+219,Fall,SS101,English Language,3,L1,0,0,0,1
+219,Fall,CS118,Programming Fundamentals,3,L1,0,0,0,1
+219,Fall,SL101,English Language Lab,1,L1,0,0,0,1
+219,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+219,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+219,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+219,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+219,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+219,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+219,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+219,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+219,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+219,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+219,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+219,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+219,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+219,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+219,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+220,Fall,SL101,English Language Lab,1,B-,2.67,1.04,1.04,0
+220,Fall,EE182,Basic Electronics,3,F,0,1.04,1.04,0
+220,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.04,1.04,0
+220,Fall,MT104,Linear Algebra,3,D,1,1.04,1.04,0
+220,Fall,SS101,English Language,3,B-,2.67,1.04,1.04,0
+220,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.04,1.04,0
+220,Fall,CS118,Programming Fundamentals,3,F,0,1.04,1.04,0
+220,Spring,EE182,Basic Electronics,3,C+,2.33,2.41,2.13,0
+220,Spring,SS122,English Composition,3,C,2,2.41,2.13,0
+220,Spring,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.41,2.13,0
+220,Spring,CS118,Programming Fundamentals,3,C-,1.67,2.41,2.13,0
+220,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,2.41,2.13,0
+220,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+220,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+220,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+220,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+220,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+220,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+220,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+220,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+220,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+220,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+220,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+220,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+220,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+221,Fall,MT104,Linear Algebra,3,C-,1.67,2.53,2.53,0
+221,Fall,CS118,Programming Fundamentals,3,B+,3.33,2.53,2.53,0
+221,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,2.53,2.53,0
+221,Fall,SL101,English Language Lab,1,A+,4,2.53,2.53,0
+221,Fall,CL118,Programming Fundamentals - Lab,1,A,4,2.53,2.53,0
+221,Fall,SS101,English Language,3,A-,3.67,2.53,2.53,0
+221,Fall,EE182,Basic Electronics,3,C-,1.67,2.53,2.53,0
+221,Fall,CS201,Data Structures,3,B,3,2.77,2.67,0
+221,Spring,SS122,English Composition,3,A,4,2.73,2.63,0
+221,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.73,2.63,0
+221,Spring,CL217,Computer Programming Lab,1,B,3,2.73,2.63,0
+221,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.73,2.63,0
+221,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,2.73,2.63,0
+221,Spring,EE227,Digital Logic Design,3,B+,3.33,2.73,2.63,0
+221,Spring,CS217,Computer Programming,3,C,2,2.73,2.63,0
+221,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+221,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+221,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+221,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+221,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+221,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+221,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+222,Fall,SS101,English Language,3,B+,3.33,2.77,2.77,0
+222,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,2.77,2.77,0
+222,Fall,EE182,Basic Electronics,3,B-,2.67,2.77,2.77,0
+222,Fall,MT104,Linear Algebra,3,B-,2.67,2.77,2.77,0
+222,Fall,CS118,Programming Fundamentals,3,C-,1.67,2.77,2.77,0
+222,Fall,SL101,English Language Lab,1,B,3,2.77,2.77,0
+222,Fall,CL118,Programming Fundamentals - Lab,1,C,2,2.77,2.77,0
+222,Fall,CS201,Data Structures,3,B-,2.67,2.6,2.77,0
+222,Spring,CL217,Computer Programming Lab,1,D+,1.33,2.18,2.47,0
+222,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.18,2.47,0
+222,Spring,CS217,Computer Programming,3,F,0,2.18,2.47,0
+222,Spring,SS122,English Composition,3,B-,2.67,2.18,2.47,0
+222,Spring,EE227,Digital Logic Design,3,A+,4,2.18,2.47,0
+222,Spring,SS113,Pakistan Studies,3,D,1,2.18,2.47,0
+222,Spring,MT224,Differential Equations (Cal II),3,B+,3.33,2.18,2.47,0
+222,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+222,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+222,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+222,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+222,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+222,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+222,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+223,Fall,EE182,Basic Electronics,3,B+,3.33,2.27,2.27,0
+223,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.27,2.27,0
+223,Fall,MT104,Linear Algebra,3,B-,2.67,2.27,2.27,0
+223,Fall,SS101,English Language,3,B,3,2.27,2.27,0
+223,Fall,MT119,Calculus and Analytical Geometry,3,B,3,2.27,2.27,0
+223,Fall,CS118,Programming Fundamentals,3,F,0,2.27,2.27,0
+223,Fall,SL101,English Language Lab,1,B-,2.67,2.27,2.27,0
+223,Fall,CS201,Data Structures,3,C-,1.67,1.94,2.25,0
+223,Spring,CS118,Programming Fundamentals,3,D+,1.33,1.75,2.28,0
+223,Spring,EE227,Digital Logic Design,3,C-,1.67,1.75,2.28,0
+223,Spring,CL118,Programming Fundamentals - Lab,1,D,1,1.75,2.28,0
+223,Spring,SS113,Pakistan Studies,3,D+,1.33,1.75,2.28,0
+223,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,1.75,2.28,0
+223,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,1.75,2.28,0
+223,Spring,SS122,English Composition,3,D,1,1.75,2.28,0
+223,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+223,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+223,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+223,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+223,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+223,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+223,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+223,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+223,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+224,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.65,1.65,3
+224,Fall,EE182,Basic Electronics,3,C,2,1.65,1.65,3
+224,Fall,MT104,Linear Algebra,3,C-,1.67,1.65,1.65,3
+224,Fall,SS101,English Language,3,B,3,1.65,1.65,3
+224,Fall,SL101,English Language Lab,1,B-,2.67,1.65,1.65,3
+224,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,1.65,1.65,3
+224,Fall,CS118,Programming Fundamentals,3,F,0,1.65,1.65,3
+224,Spring,MT224,Differential Equations (Cal II),3,B-,2.67,1.37,1.67,3
+224,Spring,CS118,Programming Fundamentals,3,F,0,1.37,1.67,3
+224,Spring,EE227,Digital Logic Design,3,B,3,1.37,1.67,3
+224,Spring,SS122,English Composition,3,F,0,1.37,1.67,3
+224,Spring,CL118,Programming Fundamentals - Lab,1,F,0,1.37,1.67,3
+224,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,1.37,1.67,3
+224,Spring,SS113,Pakistan Studies,3,D,1,1.37,1.67,3
+224,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+224,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+224,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+224,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+224,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+224,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+224,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+224,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+224,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+224,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+225,Fall,SS101,English Language,3,B-,2.67,0.77,0.77,0
+225,Fall,SL101,English Language Lab,1,FA,0,0.77,0.77,0
+225,Fall,EE182,Basic Electronics,3,F,0,0.77,0.77,0
+225,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.77,0.77,0
+225,Fall,CS118,Programming Fundamentals,3,C-,1.67,0.77,0.77,0
+225,Fall,MT104,Linear Algebra,3,FA,0,0.77,0.77,0
+225,Fall,MT119,Calculus and Analytical Geometry,3,FA,0,0.77,0.77,0
+225,Spring,MT119,Calculus and Analytical Geometry,3,A,4,2.42,2.33,0
+225,Spring,CS118,Programming Fundamentals,3,C,2,2.42,2.33,0
+225,Spring,MT104,Linear Algebra,3,C+,2.33,2.42,2.33,0
+225,Spring,EE182,Basic Electronics,3,A-,3.67,2.42,2.33,0
+225,Spring,CL118,Programming Fundamentals - Lab,1,B-,2.67,2.42,2.33,0
+225,Spring,SS111,Islamic and Religious Studies,3,FA,0,2.42,2.33,0
+225,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+225,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+225,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+225,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+225,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+225,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+225,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+225,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+225,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+225,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+225,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+225,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+225,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+225,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+226,Spring,SS113,Pakistan Studies,3,C-,1.67,3.37,3.3,0
+226,Spring,SS111,Islamic and Religious Studies,3,A,4,3.37,3.3,0
+226,Unknown,MT119,Calculus and Analytical Geometry,3,UK,-1,0,0,0
+226,Unknown,CS118,Programming Fundamentals,3,UK,-1,0,0,0
+226,Unknown,EE182,Basic Electronics,3,UK,-1,0,0,0
+226,Unknown,SS101,English Language,3,UK,-1,0,0,0
+226,Unknown,MT104,Linear Algebra,3,UK,-1,0,0,0
+226,Unknown,CL118,Programming Fundamentals - Lab,1,UK,-1,0,0,0
+226,Unknown,SL101,English Language Lab,1,UK,-1,0,0,0
+226,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+226,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+226,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+226,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+226,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+226,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+226,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+226,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+226,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+226,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+226,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+226,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+226,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+227,Fall,SL101,English Language Lab,1,C+,2.33,2.55,2.55,0
+227,Fall,CL118,Programming Fundamentals - Lab,1,F,0,2.55,2.55,0
+227,Fall,CS118,Programming Fundamentals,3,F,0,2.55,2.55,0
+227,Fall,EE182,Basic Electronics,3,A-,3.67,2.55,2.55,0
+227,Fall,SS101,English Language,3,B,3,2.55,2.55,0
+227,Fall,MT104,Linear Algebra,3,B+,3.33,2.55,2.55,0
+227,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,2.55,2.55,0
+227,Fall,CS201,Data Structures,3,C-,1.67,2.25,2.8,0
+227,Spring,SS122,English Composition,3,D,1,2.8,3.03,0
+227,Spring,EE227,Digital Logic Design,3,B+,3.33,2.8,3.03,0
+227,Spring,MT224,Differential Equations (Cal II),3,A,4,2.8,3.03,0
+227,Spring,CL118,Programming Fundamentals - Lab,1,C-,1.67,2.8,3.03,0
+227,Spring,CS118,Programming Fundamentals,3,C,2,2.8,3.03,0
+227,Spring,EL227,Digital Logic Design - Lab,1,B,3,2.8,3.03,0
+227,Spring,SS111,Islamic and Religious Studies,3,A,4,2.8,3.03,0
+227,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+227,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+227,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+227,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+227,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+227,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+227,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+227,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+227,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+228,Fall,EE182,Basic Electronics,3,C-,1.67,1.73,1.73,0
+228,Fall,CS118,Programming Fundamentals,3,D,1,1.73,1.73,0
+228,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1.73,1.73,0
+228,Fall,MT104,Linear Algebra,3,D,1,1.73,1.73,0
+228,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.73,1.73,0
+228,Fall,SS101,English Language,3,B,3,1.73,1.73,0
+228,Fall,SL101,English Language Lab,1,B+,3.33,1.73,1.73,0
+228,Fall,CS201,Data Structures,3,C,2,2.11,2.15,0
+228,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.26,2.16,0
+228,Spring,CL118,Programming Fundamentals - Lab,1,C,2,2.26,2.16,0
+228,Spring,EL227,Digital Logic Design - Lab,1,D+,1.33,2.26,2.16,0
+228,Spring,SS113,Pakistan Studies,3,B+,3.33,2.26,2.16,0
+228,Spring,EE227,Digital Logic Design,3,C,2,2.26,2.16,0
+228,Spring,CS118,Programming Fundamentals,3,C,2,2.26,2.16,0
+228,Spring,SS122,English Composition,3,B-,2.67,2.26,2.16,0
+228,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+228,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+228,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+228,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+228,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+228,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+228,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+228,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+228,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+229,Fall,MT104,Linear Algebra,3,F,0,0.71,0.71,0
+229,Fall,EE182,Basic Electronics,3,F,0,0.71,0.71,0
+229,Fall,CL118,Programming Fundamentals - Lab,1,F,0,0.71,0.71,0
+229,Fall,CS118,Programming Fundamentals,3,F,0,0.71,0.71,0
+229,Fall,SS101,English Language,3,B,3,0.71,0.71,0
+229,Fall,MT119,Calculus and Analytical Geometry,3,D,1,0.71,0.71,0
+229,Fall,SL101,English Language Lab,1,F,0,0.71,0.71,0
+229,Spring,MT104,Linear Algebra,3,C,2,2.03,1.92,0
+229,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.03,1.92,0
+229,Spring,EE182,Basic Electronics,3,C+,2.33,2.03,1.92,0
+229,Spring,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.03,1.92,0
+229,Spring,CS118,Programming Fundamentals,3,C,2,2.03,1.92,0
+229,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+229,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+229,Unknown,EE227,Digital Logic Design,3,UK,-1,0,0,0
+229,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+229,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+229,Unknown,EL227,Digital Logic Design - Lab,1,UK,-1,0,0,0
+229,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+229,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+229,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+229,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+229,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+229,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+229,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+229,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+230,Fall,MT104,Linear Algebra,3,B-,2.67,3.1,3.1,0
+230,Fall,SL101,English Language Lab,1,A-,3.67,3.1,3.1,0
+230,Fall,MT119,Calculus and Analytical Geometry,3,B,3,3.1,3.1,0
+230,Fall,CS118,Programming Fundamentals,3,C+,2.33,3.1,3.1,0
+230,Fall,CL118,Programming Fundamentals - Lab,1,A,4,3.1,3.1,0
+230,Fall,EE182,Basic Electronics,3,B,3,3.1,3.1,0
+230,Fall,SS101,English Language,3,A,4,3.1,3.1,0
+230,Fall,CS201,Data Structures,3,A-,3.67,3.59,3.4,0
+230,Spring,SS122,English Composition,3,A,4,3.53,3.31,0
+230,Spring,EL227,Digital Logic Design - Lab,1,A,4,3.53,3.31,0
+230,Spring,EE227,Digital Logic Design,3,A-,3.67,3.53,3.31,0
+230,Spring,SS111,Islamic and Religious Studies,3,B,3,3.53,3.31,0
+230,Spring,MT224,Differential Equations (Cal II),3,B-,2.67,3.53,3.31,0
+230,Spring,CS217,Computer Programming,3,A,4,3.53,3.31,0
+230,Spring,CL217,Computer Programming Lab,1,A,4,3.53,3.31,0
+230,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+230,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+230,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+230,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+230,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+230,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+230,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+231,Fall,SS101,English Language,3,B,3,2.59,2.59,0
+231,Fall,MT119,Calculus and Analytical Geometry,3,C,2,2.59,2.59,0
+231,Fall,MT104,Linear Algebra,3,B-,2.67,2.59,2.59,0
+231,Fall,EE182,Basic Electronics,3,B-,2.67,2.59,2.59,0
+231,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.59,2.59,0
+231,Fall,CL118,Programming Fundamentals - Lab,1,B,3,2.59,2.59,0
+231,Fall,SL101,English Language Lab,1,B,3,2.59,2.59,0
+231,Spring,EE227,Digital Logic Design,3,B-,2.67,2.2,2.39,0
+231,Spring,SS122,English Composition,3,C+,2.33,2.2,2.39,0
+231,Spring,SS111,Islamic and Religious Studies,3,C+,2.33,2.2,2.39,0
+231,Spring,MT224,Differential Equations (Cal II),3,C-,1.67,2.2,2.39,0
+231,Spring,EL227,Digital Logic Design - Lab,1,B-,2.67,2.2,2.39,0
+231,Spring,CL217,Computer Programming Lab,1,B-,2.67,2.2,2.39,0
+231,Spring,CS217,Computer Programming,3,C-,1.67,2.2,2.39,0
+231,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+231,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+231,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+231,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+231,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+231,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+231,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+231,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+232,Fall,MT119,Calculus and Analytical Geometry,3,B+,3.33,2.84,2.84,0
+232,Fall,SL101,English Language Lab,1,B,3,2.84,2.84,0
+232,Fall,SS101,English Language,3,B+,3.33,2.84,2.84,0
+232,Fall,MT104,Linear Algebra,3,A,4,2.84,2.84,0
+232,Fall,CS118,Programming Fundamentals,3,D,1,2.84,2.84,0
+232,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2.84,2.84,0
+232,Fall,EE182,Basic Electronics,3,B,3,2.84,2.84,0
+232,Spring,EE227,Digital Logic Design,3,C+,2.33,2.31,2.58,0
+232,Spring,SS113,Pakistan Studies,3,B+,3.33,2.31,2.58,0
+232,Spring,MT224,Differential Equations (Cal II),3,B,3,2.31,2.58,0
+232,Spring,EL227,Digital Logic Design - Lab,1,D,1,2.31,2.58,0
+232,Spring,CS217,Computer Programming,3,D,1,2.31,2.58,0
+232,Spring,CL217,Computer Programming Lab,1,C+,2.33,2.31,2.58,0
+232,Spring,SS122,English Composition,3,C+,2.33,2.31,2.58,0
+232,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+232,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+232,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+232,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+232,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+232,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+232,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+232,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+233,Fall,CS118,Programming Fundamentals,3,B-,2.67,2.18,2.18,0
+233,Fall,EE182,Basic Electronics,3,D,1,2.18,2.18,0
+233,Fall,MT104,Linear Algebra,3,C-,1.67,2.18,2.18,0
+233,Fall,MT119,Calculus and Analytical Geometry,3,D,1,2.18,2.18,0
+233,Fall,CL118,Programming Fundamentals - Lab,1,C+,2.33,2.18,2.18,0
+233,Fall,SS101,English Language,3,A,4,2.18,2.18,0
+233,Fall,SL101,English Language Lab,1,A-,3.67,2.18,2.18,0
+233,Fall,CS201,Data Structures,3,W,0,2.59,2.36,0
+233,Spring,EE227,Digital Logic Design,3,D,1,1.57,1.87,0
+233,Spring,SS111,Islamic and Religious Studies,3,B-,2.67,1.57,1.87,0
+233,Spring,MT224,Differential Equations (Cal II),3,F,0,1.57,1.87,0
+233,Spring,SS122,English Composition,3,A,4,1.57,1.87,0
+233,Spring,CL217,Computer Programming Lab,1,C,2,1.57,1.87,0
+233,Spring,CS217,Computer Programming,3,F,0,1.57,1.87,0
+233,Spring,EL227,Digital Logic Design - Lab,1,C-,1.67,1.57,1.87,0
+233,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+233,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+233,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+233,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+233,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+233,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+233,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+234,Fall,MT119,Calculus and Analytical Geometry,3,C,2,1.31,1.31,2
+234,Fall,MT104,Linear Algebra,3,C-,1.67,1.31,1.31,2
+234,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.31,1.31,2
+234,Fall,CS118,Programming Fundamentals,3,F,0,1.31,1.31,2
+234,Fall,EE182,Basic Electronics,3,F,0,1.31,1.31,2
+234,Fall,SS101,English Language,3,B-,2.67,1.31,1.31,2
+234,Fall,SL101,English Language Lab,1,B+,3.33,1.31,1.31,2
+234,Spring,SS113,Pakistan Studies,3,FA,0,0.35,1.05,2
+234,Spring,CL118,Programming Fundamentals - Lab,1,F,0,0.35,1.05,2
+234,Spring,EL227,Digital Logic Design - Lab,1,FA,0,0.35,1.05,2
+234,Spring,MT224,Differential Equations (Cal II),3,D,1,0.35,1.05,2
+234,Spring,CS118,Programming Fundamentals,3,F,0,0.35,1.05,2
+234,Spring,EE182,Basic Electronics,3,D,1,0.35,1.05,2
+234,Spring,EE227,Digital Logic Design,3,FA,0,0.35,1.05,2
+234,Unknown,SS122,English Composition,3,UK,-1,0,0,0
+234,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+234,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+234,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+234,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+234,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+234,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+234,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+234,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+234,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+234,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+235,Fall,MT104,Linear Algebra,3,C-,1.67,1.29,1.29,2
+235,Fall,SL101,English Language Lab,1,B,3,1.29,1.29,2
+235,Fall,CS118,Programming Fundamentals,3,F,0,1.29,1.29,2
+235,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.29,1.29,2
+235,Fall,EE182,Basic Electronics,3,D,1,1.29,1.29,2
+235,Fall,CL118,Programming Fundamentals - Lab,1,F,0,1.29,1.29,2
+235,Fall,SS101,English Language,3,C+,2.33,1.29,1.29,2
+235,Spring,EE227,Digital Logic Design,3,C,2,1.59,1.63,2
+235,Spring,EL227,Digital Logic Design - Lab,1,C,2,1.59,1.63,2
+235,Spring,SS113,Pakistan Studies,3,C-,1.67,1.59,1.63,2
+235,Spring,CL118,Programming Fundamentals - Lab,1,F,0,1.59,1.63,2
+235,Spring,MT224,Differential Equations (Cal II),3,D+,1.33,1.59,1.63,2
+235,Spring,CS118,Programming Fundamentals,3,D+,1.33,1.59,1.63,2
+235,Spring,SS122,English Composition,3,C,2,1.59,1.63,2
+235,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+235,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+235,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+235,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+235,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+235,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+235,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+235,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+235,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+235,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+236,Fall,SL101,English Language Lab,1,C+,2.33,2.9,2.9,2
+236,Fall,MT104,Linear Algebra,3,B+,3.33,2.9,2.9,2
+236,Fall,SS101,English Language,3,B-,2.67,2.9,2.9,2
+236,Fall,EE182,Basic Electronics,3,B+,3.33,2.9,2.9,2
+236,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,2.9,2.9,2
+236,Fall,CL118,Programming Fundamentals - Lab,1,D,1,2.9,2.9,2
+236,Fall,CS118,Programming Fundamentals,3,C+,2.33,2.9,2.9,2
+236,Fall,CS201,Data Structures,3,B-,2.67,1.88,2.18,2
+236,Spring,CS217,Computer Programming,3,F,0,1.35,2.13,2
+236,Spring,CL217,Computer Programming Lab,1,C,2,1.35,2.13,2
+236,Spring,EE227,Digital Logic Design,3,C-,1.67,1.35,2.13,2
+236,Spring,MT224,Differential Equations (Cal II),3,A-,3.67,1.35,2.13,2
+236,Spring,SS122,English Composition,3,D,1,1.35,2.13,2
+236,Spring,EL227,Digital Logic Design - Lab,1,C,2,1.35,2.13,2
+236,Spring,SS113,Pakistan Studies,3,FA,0,1.35,2.13,2
+236,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+236,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+236,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+236,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+236,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+236,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+236,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+237,Fall,MT104,Linear Algebra,3,D,1,1.69,1.69,0
+237,Fall,SL101,English Language Lab,1,B-,2.67,1.69,1.69,0
+237,Fall,MT119,Calculus and Analytical Geometry,3,D+,1.33,1.69,1.69,0
+237,Fall,CS118,Programming Fundamentals,3,F,0,1.69,1.69,0
+237,Fall,SS101,English Language,3,B,3,1.69,1.69,0
+237,Fall,CL118,Programming Fundamentals - Lab,1,D,1,1.69,1.69,0
+237,Fall,EE182,Basic Electronics,3,B,3,1.69,1.69,0
+237,Spring,SS122,English Composition,3,C+,2.33,2.25,2.3,0
+237,Spring,CS118,Programming Fundamentals,3,C,2,2.25,2.3,0
+237,Spring,SS113,Pakistan Studies,3,C+,2.33,2.25,2.3,0
+237,Spring,EL227,Digital Logic Design - Lab,1,C+,2.33,2.25,2.3,0
+237,Spring,MT119,Calculus and Analytical Geometry,3,B-,2.67,2.25,2.3,0
+237,Spring,EE227,Digital Logic Design,3,C+,2.33,2.25,2.3,0
+237,Spring,CL118,Programming Fundamentals - Lab,1,D,1,2.25,2.3,0
+237,Unknown,CS201,Data Structures,3,UK,-1,0,0,0
+237,Unknown,MT224,Differential Equations (Cal II),3,UK,-1,0,0,0
+237,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+237,Unknown,CS217,Computer Programming,3,UK,-1,0,0,0
+237,Unknown,CL217,Computer Programming Lab,1,UK,-1,0,0,0
+237,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+237,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+237,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+237,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+237,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+237,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+238,Fall,SS101,English Language,3,A-,3.67,3.53,3.53,0
+238,Fall,MT119,Calculus and Analytical Geometry,3,A-,3.67,3.53,3.53,0
+238,Fall,MT104,Linear Algebra,3,B,3,3.53,3.53,0
+238,Fall,CL118,Programming Fundamentals - Lab,1,A,4,3.53,3.53,0
+238,Fall,EE182,Basic Electronics,3,B,3,3.53,3.53,0
+238,Fall,CS118,Programming Fundamentals,3,A,4,3.53,3.53,0
+238,Fall,SL101,English Language Lab,1,A,4,3.53,3.53,0
+238,Fall,CS201,Data Structures,3,B-,2.67,2.42,2.84,0
+238,Spring,EL227,Digital Logic Design - Lab,1,C,2,2.08,2.8,0
+238,Spring,EE227,Digital Logic Design,3,C-,1.67,2.08,2.8,0
+238,Spring,SS122,English Composition,3,B,3,2.08,2.8,0
+238,Spring,CS217,Computer Programming,3,B+,3.33,2.08,2.8,0
+238,Spring,CL217,Computer Programming Lab,1,B+,3.33,2.08,2.8,0
+238,Spring,SS111,Islamic and Religious Studies,3,C,2,2.08,2.8,0
+238,Spring,MT224,Differential Equations (Cal II),3,F,0,2.08,2.8,0
+238,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+238,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+238,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+238,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+238,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+238,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+238,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
+239,Fall,EE182,Basic Electronics,3,B,3,2,2,0
+239,Fall,SL101,English Language Lab,1,A-,3.67,2,2,0
+239,Fall,SS101,English Language,3,A,4,2,2,0
+239,Fall,CL118,Programming Fundamentals - Lab,1,D+,1.33,2,2,0
+239,Fall,CS118,Programming Fundamentals,3,D,1,2,2,0
+239,Fall,MT104,Linear Algebra,3,F,0,2,2,0
+239,Fall,MT119,Calculus and Analytical Geometry,3,C-,1.67,2,2,0
+239,Fall,CS201,Data Structures,3,B,3,3.19,3,0
+239,Spring,SS122,English Composition,3,A-,3.67,3.29,2.9,0
+239,Spring,EE227,Digital Logic Design,3,A,4,3.29,2.9,0
+239,Spring,MT224,Differential Equations (Cal II),3,B,3,3.29,2.9,0
+239,Spring,CL217,Computer Programming Lab,1,B-,2.67,3.29,2.9,0
+239,Spring,CS217,Computer Programming,3,C+,2.33,3.29,2.9,0
+239,Spring,MT104,Linear Algebra,3,A-,3.67,3.29,2.9,0
+239,Spring,EL227,Digital Logic Design - Lab,1,B+,3.33,3.29,2.9,0
+239,Unknown,SS111,Islamic and Religious Studies,3,UK,-1,0,0,0
+239,Unknown,SS113,Pakistan Studies,3,UK,-1,0,0,0
+239,Unknown,SL150,English Composition and Comprehension - Lab,1,UK,-1,0,0,0
+239,Unknown,CL117,Intro to Info. and Comm. Technologies,1,UK,-1,0,0,0
+239,Unknown,SS150,English Composition and Comprehension,2,UK,-1,0,0,0
+239,Unknown,EE117,Applied Physics,3,UK,-1,0,0,0
+239,Unknown,SS152,Communication & Presentation Skills,2,UK,-1,0,0,0
+239,Unknown,SL152,Communication & Presentation Skills - Lab,1,UK,-1,0,0,0
